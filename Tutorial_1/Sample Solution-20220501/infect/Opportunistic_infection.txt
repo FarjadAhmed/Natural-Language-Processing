@@ -1,0 +1,103 @@
+An opportunistic infection is an infection caused by pathogens (bacteria, fungi, parasites or viruses) that take advantage of an opportunity not normally available. These opportunities can stem from a variety of sources, such as a weakened immune system (as can occur in acquired immunodeficiency syndrome or when being treated with immunosuppressive drugs, as in cancer treatment), an altered microbiome (such as a disruption in gut microbiota), or breached integumentary barriers (as in penetrating trauma). Many of these pathogens do not cause disease in a healthy host that has a non-compromised immune system, and can, in some cases, act as commensals until the balance of the immune system is disrupted. Opportunistic infections can also be attributed to pathogens that cause mild illness in healthy individuals but lead to more serious illness when given the opportunity to take advantage of an immunocompromised host.
+
+
+== Types of opportunistic infections ==
+
+A wide variety of pathogens are involved in opportunistic infection and can cause a similarly wide range in pathologies. A partial list of opportunistic pathogens and their associated presentations includes:
+
+
+=== Bacteria ===
+Clostridioides difficile (formerly known as Clostridium difficile) is a species of bacteria that is known to cause gastrointestinal infection and is typically associated with the hospital setting.
+Legionella pneumophila is a bacterium that causes Legionnaire’s disease, a respiratory infection.
+Mycobacterium avium complex (MAC) is a group of two bacteria, M. avium and M. intracellulare, that typically co-infect, leading to a lung infection called mycobacterium avium-intracellulare infection.
+Mycobacterium tuberculosis is a species of bacteria that causes tuberculosis, a respiratory infection.
+Pseudomonas aeruginosa is a bacterium that can cause respiratory infections. It is frequently associated with cystic fibrosis and hospital-acquired infections.
+Salmonella is a genus of bacteria, known to cause gastrointestinal infections.
+Staphylococcus aureus is a bacterium known to cause skin infections and sepsis, among other pathologies. Notably, S. aureus has evolved several drug-resistant strains, including MRSA.
+Streptococcus pneumoniae is a bacterium that causes respiratory infections.
+Streptococcus pyogenes (also known as group A Streptococcus) is a bacterium that can cause a variety of pathologies, including impetigo and strep throat, as well as other, more serious, illnesses.
+
+
+=== Fungi ===
+Aspergillus is a fungus, commonly associated with respiratory infection.
+Candida albicans is a species of fungus that is associated with oral thrush and gastrointestinal infection.
+Coccidioides immitis is a fungus known for causing coccidioidomycosis, more commonly known as Valley Fever.
+Cryptococcus neoformans is a fungus that causes cryptococcosis, which can lead to pulmonary infection as well as nervous system infections, like meningitis.
+Histoplasma capsulatum is a species of fungus known to cause histoplasmosis, which can present with an array of symptoms, but often involves respiratory infection.
+Pseudogymnoascus destructans (formerly known as Geomyces destructans) is a fungus that causes white-nose syndrome in bats.
+Microsporidia is a group of fungi that infect species across the animal kingdom, one species of which can cause microsporidiosis in immunocompromised human hosts.
+Pneumocystis jirovecii (formerly known as Pneumocystis carinii) is a fungus that causes pneumocystis pneumonia, a respiratory infection.
+
+
+=== Parasites ===
+Cryptosporidium is a protozoan that infects the gastrointestinal tract.
+Toxoplasma gondii is a protozoan, known for causing toxoplasmosis.
+
+
+=== Viruses ===
+Cytomegalovirus is a family of opportunistic viruses, most frequently associated with respiratory infection.
+Human polyomavirus 2 (also known as JC virus) is known to cause progressive multifocal leukoencephalopathy (PML).
+Human herpesvirus 8 (also known as Kaposi sarcoma-associated herpesvirus) is a virus associated with Kaposi sarcoma, a type of cancer.
+
+
+== Causes ==
+Immunodeficiency or immunosuppression are characterized by the absence of or disruption in components of the immune system, leading to lower-than-normal levels of immune function and immunity against pathogens. They can be caused by a variety of factors, including: 
+
+Malnutrition
+Fatigue
+Recurrent infections
+Immunosuppressing agents for organ transplant recipients
+Advanced HIV infection
+Chemotherapy for cancer
+Genetic predisposition
+Skin damage
+Antibiotic treatment leading to disruption of the physiological microbiome, thus allowing some microorganisms to outcompete others and become pathogenic (e.g. disruption of intestinal microbiota may lead to Clostridium difficile infection)
+Medical procedures
+Pregnancy 
+Aging
+Leukopenia (i.e. neutropenia and lymphocytopenia)
+BurnsThe lack of or the disruption of normal vaginal microbiota allows the proliferation of opportunistic microorganisms and will cause the opportunistic infection bacterial vaginosis.
+
+
+== Opportunistic Infection and HIV/AIDS ==
+HIV is a virus that targets T cells of the immune system and, as a result, HIV infection can lead to progressively worsening immunodeficiency, a condition ideal for the development of opportunistic infection. Because of this, respiratory and central nervous system opportunistic infections, including tuberculosis and meningitis, respectively, are associated with later-stage HIV infection, as are numerous other infectious pathologies. Kaposi’s sarcoma, a virally-associated cancer, has higher incidence rates in HIV-positive patients than in the general population. As immune function declines and HIV-infection progresses to AIDS, individuals are at an increased risk of opportunistic infections that their immune systems are no longer capable of responding properly to. Because of this, opportunistic infections are a leading cause of HIV/AIDS-related deaths.
+
+
+== Prevention ==
+Since opportunistic infections can cause severe disease, much emphasis is placed on measures to prevent infection. Such a strategy usually includes restoration of the immune system as soon as possible, avoiding exposures to infectious agents, and using antimicrobial medications ("prophylactic medications") directed against specific infections.
+
+
+=== Restoration of immune system ===
+In patients with HIV, starting antiretroviral therapy is especially important for restoration of the immune system and reducing the incidence rate of opportunistic infections
+In patients undergoing chemotherapy, completion of and recovery from treatment is the primary method for immune system restoration. In a select subset of high risk patients, granulocyte colony stimulating factors (G-CSF) can be used to aid immune system recovery.
+
+
+=== Avoidance of infectious exposure ===
+The following may be avoided as a preventative measure to reduce risk of infection:
+
+Eating undercooked meat or eggs, unpasteurized dairy products or juices.
+Potential sources of tuberculosis (high risk healthcare facilities, regions with high rates of tuberculosis, patients with known tuberculosis).
+Any oral exposure to feces.
+Contact with farm animals, especially those with diarrhea: source of Toxoplasma gondii, Cryptosporidium parvum.
+Cat feces (e.g. cat litter): source of Toxoplasma gondii, Bartonella spp.
+Soil/dust in areas where there is known histoplasmosis, coccidiomycosis.
+Reptiles, chicks, and ducklings that are a common source of Salmonella.
+Unprotected sexual intercourse with individuals with known sexually transmitted infections.
+
+
+=== Prophylactic medications ===
+Individuals at higher risk are often prescribed prophylactic medication to prevent an infection from occurring.  A patient's risk level for developing an opportunistic infection is approximated using the patient's CD4 T-cell count and sometimes other markers of susceptibility.  Common prophylaxis treatments include the following:
+
+
+== Treatment ==
+Treatment depends on the type of opportunistic infection, but usually involves different antibiotics.
+
+
+== Veterinary treatment ==
+Opportunistic infections caused by feline leukemia virus and feline immunodeficiency virus retroviral infections can be treated with lymphocyte T-cell immunomodulator.
+
+
+== References ==
+
+
+== External links ==

@@ -1,0 +1,12 @@
+CendR is a protein motif that regulates vascular permeability. The mechanism is activated through neuropilin-1 receptor, which mediates a trans-tissue pathway, dubbed the C-end Rule, or CendR pathway.
+
+
+== Mechanism of action ==
+A protease cleavage event - normally through furin type proteases - reveals the c-terminal CendR motif (R/KXXR/K), able to bind to neuropilin-1, leading to an increased permeability in vasculature and other tissues. This is at least partly mediated by an endocytotic/exocytotic transport pathway.
+
+
+== Clinical significance ==
+The CendR pathway can be used for an enhanced transport of coupled and coadministered anti-cancer drugs into tumors. Several solid tumors are difficult to access due to a thick fibrotic stroma. Peptides that are based on iRGD are utilized to make such tumors temporarily more accessible to circulating anti-cancer drugs. Several viruses are also using the CendR system activated by furin proteases, and it is known that viruses that have the system are more virulent and deadly.
+
+
+== References ==

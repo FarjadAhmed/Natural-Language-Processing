@@ -1,0 +1,44 @@
+A fomite () or fomes () is any inanimate object that, when contaminated with or exposed to infectious agents (such as pathogenic bacteria, viruses or fungi), can transfer disease to a new host. In the 21st century, the role of fomites in disease transfer is higher than ever in human history because of indoor lifestyle.
+
+
+== Transfer of pathogens by fomites ==
+A fomite is any inanimate object (also called passive vector) that, when contaminated with or exposed to infectious agents (such as pathogenic bacteria, viruses or fungi), can transfer disease to a new host. Contamination can occur when one of these objects comes into contact with bodily secretions, like nasal fluid, vomit, or feces. Many common objects can sustain a pathogen until a person comes in contact with the pathogen, increasing the chance of infection. The likely objects are different in a hospital environment than at home or in a workplace.
+
+
+=== Hospital fomites ===
+
+For humans, common hospital fomites are skin cells, hair, clothing, and bedding.Fomites are associated particularly with hospital-acquired infections (HAIs), as they are possible routes to pass pathogens between patients. Stethoscopes and neckties are common fomites associated with health care providers. It worries epidemiologists and hospital practitioners because of the growing selection of microbes resistant to disinfectants or antibiotics (so-called antimicrobial resistance phenomenon).
+Basic hospital equipment, such as IV drip tubes, catheters, and life support equipment, can also be carriers, when the pathogens form biofilms on the surfaces. Careful sterilization of such objects prevents cross-infection. Used syringes, if improperly handled, are particularly dangerous fomites.
+
+
+=== Daily life ===
+In addition to objects in hospital settings, other common fomites for humans are cups, spoons, pencils, bath faucet handles, toilet flush levers, door knobs, light switches, handrails, elevator buttons, television remote controls, pens, touch screens, common-use phones, keyboards and computer mice, coffeepot handles, countertops, drinking fountains, and any other items that may be frequently touched by different people and infrequently cleaned.Cold sores, hand–foot–mouth disease, and diarrhea are some examples of illnesses easily spread by contaminated fomites. The risk of infection by these diseases and others through fomites can be greatly reduced by simply washing one's hands. When two children in one household have influenza, more than 50% of shared items are contaminated with virus. In 40–90% cases, adults infected with rhinovirus have it on their hands.
+
+
+=== Transmission of specific viruses ===
+Researchers have discovered that smooth (non-porous) surfaces like door knobs transmit bacteria and viruses better than porous materials like paper money because porous, especially fibrous, materials absorb and trap the contagion, making it harder to contract through simple touch. Nonetheless, fomites may include soiled clothes, towels, linens, handkerchiefs, and surgical dressings.SARS-CoV-2 was found to be viable on various surfaces from 4 to 72 hours under laboratory conditions. However, further research called into question the accuracy of such tests, instead finding fomite transmission of SARS-Cov-2 in real world settings is extremely rare if not impossible.The 2007 research showed that the influenza virus was still active on stainless steel 24 hours after contamination. Though on hands it survives only for five minutes, the constant contact with a fomite almost certainly means catching the infection. Transfer efficiency depends not only on surface, but mainly on pathogen type. For example, avian influenza survives on both porous and non-porous materials for 144 hours.Contaminated needles are the most common fomite that transmits HIV. Fomites from dirty needles also easily spread Hepatitis B.
+
+
+== Etymology ==
+The Italian scholar and physician Girolamo Fracastoro appears to have first used the Latin word fomes, meaning "tinder", in this sense in his essay on contagion, De Contagione et Contagiosis Morbis, published in 1546: "By fomes I mean clothes, wooden objects, and things of that sort, which though not themselves corrupted can, nevertheless, preserve the original germs of the contagion and infect by means of these".English usage of fomes, pronounced , is documented since 1658. The English word fomite, which has been in use since 1859, is a back-formation from the plural fomites (originally borrowed from the Latin plural fōmĭtēs [ˈfoːmɪteːs] of fōmĕs [ˈfoːmɛs]). Over time, the English-language pronunciation of the plural fomites changed from ) to , which led to the creation of a new singular fomite, pronounced . The French fomite, Italian fomite, Spanish fómite and Portuguese fómite or fômite, however, are derived directly from the Latin accusative singular fōmĭtēm, as usually happens with Latin common nouns.
+
+
+== See also ==
+Focal infection theory
+Focus of infection
+Vector (epidemiology)
+
+
+== References ==
+
+
+== Bibliography ==
+Cook, Nigel (2013), "10.1 Introduction; the role of fomites in the virus transmission", Viruses in Food and Water: Risks, Surveillance and Control, Cambridge: Woodhead Publishing, pp. 205–215, ISBN 978-0-85709-887-0
+Bennett, John V.; Jarvis, William Robert; Brachman, Philip S. (2007), "Chapter 19: The Inanimate Environment", Bennett & Brachman's Hospital Infections, Philadelphia: Lippincott Williams & Wilkins, p. 277, ISBN 978-0-7817-6383-7
+Fortuine, Robert (2000), The Words of Medicine: Sources, Meanings, and Delights, Springfield: Charles C Thomas Publisher, p. 53, ISBN 0398071322
+Larson, Elaine L.; Liverman, Catharyn T. (2011), "Understanding the Risk to Healthcare Personnel: Fomite Persistence", Preventing Transmission of Pandemic Influenza and Other Viral Respiratory Diseases: Personal Protective Equipment for Healthcare Personnel: Update 2010, Washington: National Academies Press, p. 41, ISBN 978-0-309-16254-8
+Shors, Teri (2017), "Clinical Signs and Symptoms of Human Herpersviruses", Understanding Viruses, Wisconsin: Jones & Bartlett Learning, ISBN 978-1-284-02592-7
+
+
+== External links ==
+General characteristics and roles of fomites in viral transmission, American Society for Microbiology, 1969 Archived 24 April 2010 at the Wayback Machine

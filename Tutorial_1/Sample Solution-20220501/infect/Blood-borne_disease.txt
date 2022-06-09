@@ -1,0 +1,46 @@
+A blood-borne disease is a disease that can be spread through contamination by blood and other body fluids. Blood can contain pathogens of various types, chief among which are microorganisms, like bacteria and parasites, and non-living infectious agents such as viruses. Three bloodborne pathogens in particular, all viruses, are cited as of primary concern to health workers by the CDC-NIOSH: HIV, hepatitis B (HVB), & hepatitis C (HVC).Diseases that are not usually transmitted directly by blood contact, but rather by insect or other vector, are more usefully classified as vector-borne disease, even though the causative agent can be found in blood. Vector-borne diseases include West Nile virus, zika fever and malaria.
+Many blood-borne diseases can also be contracted by other means, including high-risk sexual behavior or intravenous drug use. These diseases have also been identified in sports medicine.Since it is difficult to determine what pathogens any given sample of blood contains, and some blood-borne diseases are lethal, standard medical practice regards all blood (and any body fluid) as potentially infectious. Blood and Body Fluid precautions are a type of infection control practice that seeks to minimize this sort of disease transmission.
+
+
+== Occupational exposure ==
+Blood poses the greatest threat to health in a laboratory or clinical setting due to needlestick injuries (e.g., lack of proper needle disposal techniques and/or safety syringes). These risks are greatest among healthcare workers, including: nurses, surgeons, laboratory assistants, doctors, phlebotomists, and laboratory technicians.  These roles often require the use of syringes for blood draws or to administer medications.The Occupational Safety and Health Administration (OSHA) prescribes 5 rules that are required for a healthcare facility to follow in order to reduce the risk of employee exposure to blood-borne pathogens. They are:
+
+Written exposure control plan
+Engineering controls (Sharps containers, detachable and retractable needles, syringe caps, etc.)
+Safe Work Practices and Safety Devices
+Hepatitis B vaccine available to employees
+Education and post-exposure follow upThese controls, while general, serve to greatly reduce the incidence of blood-borne disease transmission in occupational settings of healthcare workers.
+There are 26 different viruses that have been shown to present in healthcare workers as a result of occupational exposure. The most common blood-borne diseases are hepatitis B (HBV), hepatitis C (HCV), and human immunodeficiency virus (HIV). Exposure is possible through blood of an infected patient splashing onto mucous membranes; however, the greatest exposure risk was shown to occur during percutaneous injections performed for vascular access. These include blood draws, as well as catheter placement, as both typically use hollow bore needles. Preventive measures for occupational exposure include standard precautions (hand washing, sharp disposal containers), as well as additional education. Advancements in the design of safety engineered devices have played a significant role in decreasing rates of occupational exposure to blood-borne disease. According to the Massachusetts Sharps Injury Surveillance System, needle devices without safety features accounted for 53% of the 2010 reported sharps injuries. Safer sharps devices now have engineering controls, such as a protective shield over the needle, and sharps containers that have helped to decrease this statistic. These safer alternatives are highly effective in substantially reducing injuries. For instance, almost 83% of injuries from hollow bore needles can be prevented with the use of safer sharps devices.
+
+
+== Blood transfusions ==
+Blood for blood transfusion is screened for many blood-borne diseases. Additionally, a technique that uses a combination of riboflavin and UV light to inhibit the replication of these pathogens by altering their nucleic acids can be used to treat blood components prior to their transfusion, and can reduce the risk of disease transmission.A technology using the synthetic psoralen, amotosalen HCl, and UVA light (320–400 nm) has been implemented in European blood centers for the treatment of platelet and plasma components to prevent transmission of bloodborne diseases caused by bacteria, viruses and protozoa.
+
+
+== Needle exchange programs ==
+Needle exchange programs (NEPs) are an attempt to reduce the spread of blood-borne diseases between intravenous drug users. They often also provide addiction counseling services, infectious disease testing, and in some cases mental health care and other case management. NEPs acquired their name as they were initially places where intravenous (IV) illicit substance users were provided with clean, unused needles in exchange for their used needles. This allows for proper disposal of the needles. Empirical studies confirm the benefits of NEPs. NEPs can affect behaviors that result in the transmission of HIV. These behaviors include decreased sharing of used syringes, which reduces contaminated syringes from circulation and replaces them with sterile ones, among other risk reductions.
+
+
+== Prevention ==
+Follow standard precautions to help prevent the spread of blood-borne pathogens and other diseases whenever there is a risk of exposure to blood or other bodily fluids. Standard precautions include maintaining personal hygiene and using personal protective equipment (PPE), engineering controls, and work practice controls among others. Always avoid contact with blood and other bodily fluids. Wear disposable gloves when providing care, particularly if you may come into contact with blood or bodily fluids. Dispose properly of gloves and change gloves when providing care to a new patient. Use needles with safety devices to help prevent needlestick injury and exposure to blood-borne pathogens.A hierarchy of controls can help to prevent environmental and occupational exposures and subsequent diseases. These include:
+Elimination: Physically remove hazards, including needles that lack a safety device. Additionally, eliminate the use of needle devices  whenever safe and effective alternatives are available.
+Substitution: Replace needles without safety devices with ones that have a safety feature built in. This has been shown to reduce bloodborne diseases transmitted via needlestick injuries.
+Engineering controls: Isolate people from the hazard by providing sharps containers for workers to immediately place needles in after use.
+Administrative controls: Change the way people work by creating a culture of safety such as avoiding recapping or bending needles that may be contaminated and promptly disposing of used needle devices and other sharps.Personal protective equipment: Protect workers with PPE such as gloves and masks to avoid transmission of blood and other bodily fluids.
+
+
+== References ==
+
+
+== External links ==
+
+Selected EPA-registered Disinfectants—U.S. Environmental Protection Agency
+OSHA Bloodborne Pathogen Standard (BBPS)
+Bloodborne Pathogens and Needlestick Prevention, from the Occupational Safety and Health Administration (OSHA)
+OSHA Bloodborne Pathogens Workplace Safety Standards and Regulations
+OSHA Bloodborne Pathogens Training
+Antimicrobials Information—National Pesticide Information Center
+Professor Andrew Speilman, Entomologist, Harvard School of Hygiene and Public Health Freeview Malaria video by the Vega Science Trust.
+Rob Hutchinson, Entomolgoist, Mosquitoes London School of Hygiene and Tropical Diseases. Freeview video by the Vega Science Trust.
+"CDC—Healthcare-associated infections—HAI". cdc.gov. Retrieved 2014-03-01.
+NIOSH Bloodborne Infectious Diseases Topic Page

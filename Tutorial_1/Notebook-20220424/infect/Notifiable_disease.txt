@@ -1,0 +1,104 @@
+A notifiable disease is any disease that is required by law to be reported to government authorities. The collation of information allows the authorities to monitor the disease, and provides early warning of possible outbreaks. In the case of livestock diseases, there may also be the legal requirement to kill the infected livestock upon notification. Many governments have enacted regulations for reporting of both human and animal (generally livestock) diseases.
+
+
+== Global ==
+
+
+=== Human ===
+The World Health Organization's International Health Regulations 1969 require disease reporting to the organization in order to help with its global surveillance and advisory role.  The current (1969) regulations are rather limited with a focus on reporting of three main diseases: cholera, yellow fever and plague. Smallpox was a contagious disease during the 18th-20th century. It was endemic until mass vaccination, after which WHO certified Smallpox to be eradicated. This marked the first human disease to be successfully eradicated.
+The revised International Health Regulations 2005 broadens this scope and is no longer limited to the notification of specific diseases.  Whilst it does identify a number of specific diseases, it also defines a limited set of criteria to assist in deciding whether an event is notifiable to WHO.WHO states that "Notification is now based on the identification within a State Party’s territory of an "event that may constitute a public health emergency of international concern".  This non-disease specific definition of notifiable events expands the scope of the IHR (2005) to include any novel or evolving risk to international public health, taking into account the context in which the event occurs. Such notifiable events can extend beyond communicable diseases and arise from any origin or source. This broad notification requirement aims at detecting, early on, all public health events that could have serious and international consequences, and preventing or containing them at source through an adapted response before they spread across borders."
+
+
+=== Animal ===
+The OIE (World Organisation for Animal Health) monitors specific animal diseases on a global scale.
+
+Diseases Notifiable to the OIE
+
+
+== Australia ==
+
+
+=== Human ===
+The National Notifiable Diseases Surveillance System (NNDSS) was established in 1990. Notifications are made to the States or Territory health authority and computerised, de-identified records are then supplied to the Department of Health and Ageing for collation, analysis and publication. The Australian national notifiable diseases list and case definitions are available online.
+
+
+=== Animal ===
+Within Australia the Department of Agriculture, Fisheries and Forestry regulates the notification of infectious animal diseases.
+
+National List of Notifiable Animal Diseases
+State and Territory Notifiable Animal Diseases Lists
+
+
+== Brazil ==
+
+
+=== Human ===
+Notification is regulated under Brazilian Ministry of Health Ordinance number 1.271 of June 6, 2014. 
+
+List of national notifiable diseases
+
+
+== Canada ==
+Diseases of concern to public health officials have been tracked in Canada since 1924.A subcommittee of the National Advisory Committee on Epidemiology was set up in 1987. At the time, 34 diseases were surveyed on the list of communicable diseases while another 13 were recommended for addition to the list. As of 1 January 2000, a total of 43 diseases were given the status of notifiable. In 2006, the Final report and recommendations from the National Notifiable Diseases Working Group found that certain diseases should be added and certain diseases should not.The Canadian Notifiable Disease Surveillance System is a searchable database tool provided by the Public Health Agency of Canada.
+
+
+=== Human ===
+List of national notifiable diseases
+
+
+== France ==
+
+
+=== Human ===
+The first policies of mandatory notifiable disease originated a long time ago in France, while exact times are unclear we know that at the end of the 18th century Plague was a highly enforced notifiable disease.The current list of notifiable diseases is written in the Code de la santé publique Article D3113-6 and Article D3113-7 (last revision has been made in 2012), it contains 33 diseases : 31 infectious ones and 2 non-infectious disease directly linked to the environment (Lead poisoning and Mesothelioma). Notifications of both the disease and the distribution of specific medicine are made to a regional desk governmental agency called Agence régionale de santé by :
+
+Physician and Biologists, both in public or in private workplaces,
+Physician controllers (MISP) and Administratives civil-servant from Directions départementales des affaires sanitaires et sociales (DDASS),
+Epidemiologists from the Institut de veille sanitaire (InVS),
+Drugs sellers.Anonymous records are then used by the government health-insurance system.
+Ill people must cure them and in many case are put in quarantine.
+
+
+=== Animal ===
+Only infectious diseases are notifiable to the authorities. The complete list can be found in the Article L. 223-22 du code rural, it is updated with every new entry on World Organisation for Animal Health (OIE) lists A and B and with European Union mandatory lists.
+
+
+== New Zealand ==
+
+
+=== Human ===
+Notification is regulated under the Health Act 1956, except for tuberculosis which is regulated under the Tuberculosis Act 1948. All diseases
+
+List of national notifiable diseases
+
+
+== United Kingdom ==
+
+
+=== Human ===
+
+Requirement for the notification of infectious diseases originated near the end of the 19th century.  The list started with a few select diseases and has since grown to 31.  Currently disease notification for humans in the UK is regulated under the Public Health (Control of Disease) Act 1984 and Public Health (Infectious Diseases) Regulations 1988.  The governing body is Public Health England  [2]
+List of Notifiable Diseases can be found here [3].
+
+
+==== Children ====
+There are also requirements for notification specific to children in the National standards for under 8s day care and childminding that state:
+"Office for Standards in Education should be notified of any food poisoning affecting two or more children looked after on the premises, any child having meningitis or the outbreak on the premises of any notifiable disease identified as such in the Public Health (Control of Disease) Act 1984 or because the notification requirement has been applied to them by regulations (the relevant regulations are the Public Health (Infectious Diseases) Regulations 1988).
+
+
+=== Animal ===
+In the UK notification of diseases in animals is regulated by the Animal Health Act 1981, as well as the Specified Diseases (Notification and Slaughter) Order 1992 (as amended) and Specified Diseases (Notification) Order 1996 (as amended). The act states that a police constable should be notified, however in practice a Defra divisional veterinary manager is notified and Defra will investigate.
+List of Notifiable Diseases
+
+
+== United States ==
+In the past, notifiable diseases in the United States varied according to the laws of individual states. The Centers for Disease Control and Prevention (CDC) and the Council of State and Territorial Epidemiologists (CSTE) also produced a list of nationally notifiable diseases that health officials should report to the CDC's National Notifiable Diseases Surveillance System (NNDSS). A uniform criterion for reporting diseases to the NNDSS was introduced in 1990.
+
+
+== See also ==
+List of notifiable diseases
+Public Health Emergency of International Concern
+Disease surveillance
+
+
+== References ==

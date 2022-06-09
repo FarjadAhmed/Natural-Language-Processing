@@ -1,0 +1,77 @@
+An asymptomatic carrier is a person or other organism that has become infected with a pathogen, but shows no signs or symptoms.Although unaffected by the pathogen, carriers can transmit it to others or develop symptoms in later stages of the disease. Asymptomatic carriers play a critical role in the transmission of common infectious diseases such as typhoid, HIV, C. difficile, influenzas, cholera, tuberculosis and COVID-19, although the last is often associated with "robust T-cell immunity" in more than a quarter of patients studied. While the mechanism of disease-carrying is still unknown, researchers have made progress towards understanding how certain pathogens can remain dormant in a human for a period of time. A better understanding of asymptomatic disease carriers is crucial to the fields of medicine and public health as they work towards mitigating the spread of common infectious diseases.
+
+
+== Types of asymptomatic carriers ==
+Asymptomatic carriers can be categorized by their current disease state.  When an individual transmits pathogens immediately following infection but prior to developing symptoms, they are known as an incubatory carrier. Humans are also capable of spreading disease following a period of illness. Typically thinking themselves cured of the disease, these individuals are known as convalescent carriers. Viral diseases such as hepatitis and poliomyelitis are frequently transmitted in this manner. "Healthy carriers" never exhibit signs or symptoms of the disease, yet are capable of infecting others, and are often considered to be the "classic" asymptomatic carriers.
+While the mechanism of disease carrying is still unknown, researchers have made progress towards understanding how certain pathogens can remain dormant in a human for a period of time.
+
+
+== Significance in disease transmission ==
+The limited information on the prevalence of asymptomatic carriers creates a considerable difficulty when planning public health initiatives. Given that disease surveillance is dependent on estimates for both the asymptomatic rates and symptomatic rates of disease, the lack of information on the prevalence of carriers can lead to insufficient initiatives for the mitigation of common public health concerns such as C. difficile or influenza.Researchers have expressed the desire to better predict transmission methods in order to determine the appropriate public health response.  For example, a disease with a known low asymptomatic rate may lead to increased surveillance of symptomatic cases, whereas a higher asymptomatic rate could lead to more aggressive methods such as travel bans and compulsory quarantines, since the number of infectious, asymptomatic cases would be unknown.
+
+
+== Possible explanations ==
+While an exact explanation for asymptomatic carriage is unknown, researchers have been dedicating their efforts towards understanding how specific bacteria thrive in human hosts in the hopes of determining a universal understanding of asymptomatic transmission.
+
+
+=== A biological mechanism utilizing Salmonella ===
+Numerous research publications have demonstrated how salmonella is able to remain in immune cells and alter their metabolic systems in order to further transmit the disease. Utilizing a closely related strand of bacterium (S. typhimurium), scientists have been able to create a mouse model that mimics the persistent salmonella cases seen in carriers of typhoid. Knowing that the bacterium can reside in mice for their entire lives, researchers have been able to determine that the bacterium tends to reside in macrophages. Further examination of the gut lymph nodes of the mice reveals that S. typhimurium changes the inflammatory response of the macrophages. Instead of eliciting an inflammatory response from the attack cells, the bacterium is able to convert them into an anti-inflammatory macrophage, allowing for optimal survival conditions. In the words of lead scientist Denise Monack, "It wasn't that inflammatory macrophages were invulnerable to infection, but rather that, having infected a macrophage, S. typhimurium was much more able to replicate in the anti-inflammatory type".Investigators have also found that the presence of peroxisome proliferator-activated receptors (PPARs) correlated to the presence of salmonella bacterium. PPARs, thought of as roaming genetic switches, are responsible for the fat metabolism needed to sustain anti-inflammatory macrophages in which S. typhimurium hides.
+
+
+== Asymptomatic bacteriuria ==
+Asymptomatic bacteriuria is a condition that typically impacts 3–5% of women, with the most vulnerable populations being the elderly and those diagnosed with diabetes.  Within the female population, the risk of bacteriuria increases with age. Escherichia coli is the most common organism found during urine analysis, though the variety of potentially infectious organisms is diverse and can include Enterobacteriaceae, Pseudomonas aeruginosa, Enterococcus species, and group B streptococcus. The Agency for Healthcare Research and Quality has issued a set of screening recommendations as well as offered some insight into the mechanism of bacteriuria. Results of the meta-analysis produced no clear explanation for asymptomatic carriage, but did yield new evidence that strengthened the support for screening for asymptomatic bacteriuria in pregnant women only.
+
+
+== Infectious diseases ==
+Asymptomatic carriers have furthered the spread of many infectious diseases. A common principle in epidemiology, the 80–20 rule, speculates that 80% of the disease transmission is conducted by only 20% of people in a population.
+
+
+=== Typhoid fever ===
+Typhoid fever is an ailment caused by the bacterium Salmonella enterica ser. Typhi. An individual can acquire this infection from consuming risky foods or drinks, or by consuming foods or drinks prepared by an infected individual. Those who recover from this infection can still carry the bacteria in their cells, and therefore be asymptomatic.
+
+
+==== Typhoid Mary ====
+
+Mary Mallon, known as "Typhoid Mary", was an asymptomatic carrier of Salmonella enterica serovar typhi, the causative agent of typhoid fever. She was a cook for several families and soldiers in New York City during the late 1800s, and several cases of typhoid fever were traced to her by the Health Department. At the time, there was no way of eradicating the disease, and it was spread primarily through fecal-oral transmission. Most of Mary Mallon's transmission risk was thought to arise from her continued involvement in occupations involving food preparation and handling. New York City's public health officials initially sought to merely restrict her from such employment rather than permanently quarantining her. When she continued to be non-compliant, the Health Commission ordered that she be quarantined on one of the islands surrounding Manhattan. She remained there until her death.Despite appearing perfectly healthy, it is estimated that Mary infected about 50 people before she was quarantined. Scientists calculate that between 1% and 6% of individuals infected with Salmonella typhi become chronic, asymptomatic carriers like Mary.
+
+
+=== HIV ===
+
+HIV infection has a long period during which the person is asymptomatic. Although the host may not be experiencing symptoms, the virus can still be passed on to others. It is also possible for the infection to become symptomatic after this incubation period. Whether the host is showing symptoms or not, opportunistic infections can take advantage of the weakened immune system and cause further complications.
+
+
+=== Epstein–Barr virus ===
+Many carriers are infected with persistent viruses such as Epstein–Barr virus (EBV), a member of the herpes virus family. Studies show that about 95% of adults have antibodies against EBV, which means they were infected with the virus at some point in their life.
+
+
+=== Clostridioides difficile ===
+Clostridioides difficile has also been shown to be spread by asymptomatic carriers, and poses significant problems in home-care settings. Reports indicating that over 50% of long-term patients present with fecal contamination despite a lack of symptoms have led many hospitals to extend the period of contact precautions until discharge.
+
+
+=== Cholera ===
+For cholera the estimates of the ratio of asymptomatic to symptomatic infections have ranged from 3 to 100.
+
+
+=== Chlamydia ===
+Chlamydia, an STI that affects both men and women, can also be asymptomatic in most individuals. Although the infection may not yield any obvious symptoms, it can still damage the reproductive system. If the infection goes unnoticed for a long time, infected individuals are at risk of developing pelvic inflammatory disease (PID). Like chlamydia, PID can also be asymptomatic.
+
+
+=== Poliomyelitis ===
+A small number of asymptomatic carriers of polio (referred to as chronic excretors) continue to produce active virus for years (or even decades) after their initial exposure to the oral Sabin vaccine. Carriers of the attenuated virus unintentionally spread the attenuated virus, inoculating others, giving them contact immunity; however some adults with weak immune systems have contracted paralytic polio from contact with recently immunized children. Carriers of virulent strains spread polio, increasing the difficulty of poliomyelitis eradication.
+
+
+=== Tuberculosis ===
+Tuberculosis (TB) is an infectious disease usually caused by the bacterium Mycobacterium tuberculosis (MTB). Tuberculosis generally affects the lungs, but can also affect other parts of the body. Active or symptomatic tuberculosis is spread from person to person through the air through bacterium spores that are released into the air following a cough or sneeze. Some individuals may be infected with the tuberculosis mycobacterium but never display symptoms. Called latent tuberculosis, these cases, while uncontagious, are particularly problematic from a public health perspective, since approximately 10% of those diagnosed with latent TB will go on to develop an active (and contagious) case.
+
+
+=== Covid-19 ===
+A 2021 paper estimated that at least 50% of SARS-CoV-2 infections were a result of exposure to asymptomatic carriers.
+
+
+== See also ==
+Vector (epidemiology)
+Viral load
+Virulence
+
+
+== References ==

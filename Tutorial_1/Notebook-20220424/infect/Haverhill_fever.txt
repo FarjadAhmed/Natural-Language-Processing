@@ -1,0 +1,29 @@
+Haverhill fever (or epidemic arthritic erythema) is a systemic illness caused by the bacterium Streptobacillus moniliformis, an organism common in rats and mice. If untreated, the illness can have a mortality rate of up to 13%. Among the two types of rat-bite fever, Haverhill fever caused by Streptobacillus moniliformis is most common in North America. The other type of infection caused by Spirillum minus is more common in Asia and is also known as Sodoku.The initial non-specific presentation of the disease and hurdles in culturing the causative microorganism are at times responsible for a delay or failure in the diagnosis of the disease. Although non-specific in nature, initial symptoms like relapsing fever, rash and migratory polyarthralgia are the most common symptoms of epidemic arthritic erythema.Bites and scratches from rodents carrying the bacteria are generally responsible for the affliction. However, the disease can be spread even without physical lacerations by rodents. In fact, the disease was first recognized from a milk-associated outbreak which occurred in Haverhill, Massachusetts in January, 1926. The organism S. moniliformis was isolated from the patients and epidemiologically, consumption of milk from one particular dairy was implicated in association with the infection. Hence, ingestion of food and drink contaminated with the bacteria can also result in the development of the disease.
+
+
+== Symptoms and signs ==
+The illness resembles a severe influenza, with a moderate fever (38-40 °C, or 101-104 °F), sore throat, chills, myalgia, headache, vomiting, and a diffuse red rash (maculopapular, petechial, or purpuric), located mostly on the hands and feet. The incubation period for the bacteria generally lasts from three-ten days. As the disease progresses. almost half the patients experience migratory polyarthralgias.
+
+
+== Mechanism ==
+Although the specific form of pathogenesis is still a subject of ongoing research, the bacteria has been observed to result in morphological symptoms that are atypical of bacterial infection. Autopsy of the victims vividly exhibit erythrophagocytosis, hepatosplenomegaly, interstitial pneumonia, and lymph node sinus hyperplasia. In addition, Myocarditis and Endocarditis have also been demonstrated in such patients. Synovial and serosal surfaces may be more suited for the growth of the bacteria within the body. Furthermore, leukocytoclastic vasculitis has been observed in the skin lesions.
+
+
+== Diagnosis ==
+The microaerophilic conditions needed for the bacteria to grow, makes its detection incredibly difficult.  Trypticase soy agar or broth enriched with 20% blood, serum, or ascitic fluid is necessary for the optimal growth of the bacteria under laboratory conditions. The organism may take up to seven days to grow and the colonies generally have a circular, grayish and shiny appearance on agar. Once the microbe has grown, primary identification can be carried out via biochemical and carbohydrate fermentation analysis. Biochemical tests such as oxidase, catalase, indole, and nitrate can be used to detect the bacteria. However, S. moniliformis can be biochemically differentiated from similar bacteria by their negative production of indole, catalase, and oxidase, while reduction of nitrate to nitrite.
+PCR assay specific for Streptobacillus moniliformis can also be used to detect the bacteria in a patient sample with high accuracy.
+The PCR assay utilizes primers based on the 16S rRNA gene base sequences of human and rodent strains of S. moniliformis (forward primer, 5′ GCT TAA CAC ATG CAA ATC TAT 3′ and reverse primer, 5′ AGT AAG GGC CGT ATC TCA 3′). These primers exhibit 100% complementarity to S. moniliformis ATCC 14674T and S. moniliformis ANL 370-1. The PCR assay generates a 296-bp product which upon treatment with BfaI restriction enzyme, leads to the generation of three distinct fragments (128, 92, and 76 bp), which are specific to S. moniliformis. Hence, this assay can be used to detect S. moniliformis with great accuracy.
+
+
+== Prevention ==
+Although rare, the disease is certainly seeing a spike in the number of incidences because of various reasons. The most important among them is the fact that rodents are increasingly finding their way into our homes either as a pet or as a pest. In fact, the number of children who are affected by rat bite fever has been specifically on the rise. Therefore, wild rats should not be brought home and if there is an infestation, appropriate measures for extermination must be undertaken to prevent the disease from spreading.
+
+
+== Treatment ==
+The bacteria are susceptible to a number of antibiotics. They are: cephalosporins, carbapenems, aztreonam, clindamycin, erythromycin, nitrofurantoin, bacitracin, doxycycline, tetracycline, teicoplanin, and vancomycin. However, the data suggests that treatment with erythromycin can be less efficient. Intravenous penicillin G (400000-600000 IU/day) should be administered for 7 days and then a dosage of oral penicillin must be prescribed. Children should receive a much lesser dose: 20,000 to 50,000 IU, per kg of body weight per day. However, if somebody is allergic to penicillin, streptomycin and tetracycline can be administered as they have also been observed to provide efficacious results. In case of complications such as Endocarditis, a combination therapy with both intravenous penicillin G and streptomycin or gentamicin is necessary.
+
+
+== References ==
+
+
+== External links ==

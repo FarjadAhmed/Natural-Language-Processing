@@ -1,0 +1,25 @@
+Negative room pressure is an isolation technique used in hospitals and medical centers to prevent cross-contamination from room to room. It includes a ventilation  that generates negative pressure (pressure lower than of the surroundings) to allow air to flow into the isolation room but not escape from the room, as air will naturally flow from areas with higher pressure to areas with lower pressure, thereby preventing contaminated air from escaping the room. This technique is used to isolate patients with airborne contagious diseases such as: influenza (flu), measles, chickenpox, tuberculosis, severe acute respiratory syndrome (SARS-CoV), Middle East respiratory syndrome (MERS-CoV), and coronavirus disease 2019 (COVID-19).
+
+
+== Mechanism ==
+
+Negative pressure is generated and maintained in a room by a ventilation system that continually attempts to move air out of the room.  Replacement air is allowed into the room through a gap under the door (typically about one half-inch high). Except for this gap, the room is as airtight as possible, allowing little air in through cracks and gaps, such as those around windows, light fixtures and electrical outlets. Leakage from these sources can make it more difficult and less energy efficient to maintain room negative pressure.Because generally there are components of the exhausted air such as chemical contaminants, microorganisms, or radioactive isotopes that would be unacceptable to release into the surrounding outdoor environment, the air outlet must, at a minimum, be located such that it will not expose people or other occupied spaces. Commonly it is exhausted out of the roof of the building. However, in some cases, such as with highly infections microorganisms in biosafety level 4 rooms, the air must first be mechanically filtered or disinfected by ultraviolet irradiation or chemical means before being released to the surrounding outdoor environment. In the case of nuclear facilities, the air is monitored for the presence of radioactive isotopes and usually filtered before being exhausted through a tall exhaust duct to be released higher in the air away from occupied spaces.
+
+
+== Monitoring and guidelines ==
+In 2003, the CDC published guidelines on infection control, which included recommendations regarding negative pressure isolation rooms. Still absent from the CDC are recommendations of acute negative pressure isolation room monitoring. This has led to hospitals developing their own policies, such as the Cleveland Clinic. Commonly used methods for acute monitoring include the smoke or tissue test and periodic (noncontinuous) or continuous electronic pressure monitoring.
+
+
+=== Smoke/tissue test ===
+This test uses smoke or tissue paper to assess room pressurization. A capsule of smoke or a tissue is placed near the bottom of the door, if the smoke or tissue is pulled under the door, the room is negatively pressurized. The advantages of this test are that it is cost efficient and easily performed by hospital staff. The disadvantages are that it is not a continuous test and that it does not measure magnitude. Without a measure for magnitude, isolation rooms may be under- or over-pressurized, even though the smoke/tissue test is positive. A 1994 CDC recommendation stated TB isolation rooms should be checked daily for negative pressure while being used for TB isolation. If these rooms are not being used for patients who have suspected or confirmed TB but potentially could be used for such patients, the negative pressure in the rooms should be checked monthly.
+
+
+=== Continuous electronic pressure monitoring ===
+This test uses an electronic device with a pressure port in the isolation room and an isolation port in the corridor to continuously monitor the pressure differential between the spaces. The advantages of this type of monitoring are that the test is continuous and an alarm will alert staff to undesirable pressure changes. The disadvantages of this monitoring are that pressure ports can become contaminated with particulates which can lead to inaccuracy and false alarms, the devices are expensive to purchase and install, and staff must be trained to use and calibrate these devices because the pressure differentials used to achieve the low negative pressure necessitate the use of very sensitive mechanical devices, electronic devices, or pressure gauges to ensure accurate measurements.
+
+
+== See also ==
+Positive room pressure
+
+
+== References ==

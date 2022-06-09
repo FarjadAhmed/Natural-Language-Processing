@@ -1,0 +1,23 @@
+A patient under investigation (or a person under investigation) refers to a person who had been in close contact with a person with confirmed infection or/and may have been to place where there is an outbreak or superspreading event. This person exhibits the symptoms of the disease and is required to be tested, and undergo a quarantine or isolation while waiting for the laboratory results. It is a term used by health care workers in classifying patients during evaluation and testing in contact tracing in times of infectious disease outbreaks.
+
+
+== See also ==
+
+Disease surveillance – Monitoring spread of disease to establish patterns of progression
+Infection control
+Pandemic prevention – Organization and management of preventive measures against pandemics
+Social distancing – Infection control technique by keeping a distance from each other
+Super-spreader
+Transmission
+Triage – Process of determining the priority of patients' treatments based on the severity of their condition
+
+
+== References ==
+
+
+== External links ==
+Centers for Disease Control and Prevention's When Caring for Patients Under Investigation (PUIs) or Patients with Confirmed Ebola Virus Disease (EVD)
+Centers for Disease Control and Prevention's Human Infection with 2019 Novel Coronavirus Person Under Investigation (PUI) and Case Report Form
+Centers for Disease Control and Prevention's Evaluating and Testing Persons for Coronavirus Disease 2019 (COVID-19)
+Illinois Department of Public Health's Case Definitions for MERS-CoV Patient Under Investigation (PUI)
+Eurosurveillance's Differential diagnosis of illness in patients under investigation for the novel coronavirus (SARS-CoV-2), Italy, February 2020

@@ -1,0 +1,38 @@
+Human-to-human transmission (HHT) is an epidemiologic vector, especially in case the disease is borne by individuals known as superspreaders. In these cases, the basic reproduction number of the virus, which is the average number of additional people that a single case will infect without any preventative measures, can be as high as 3.9. Interhuman transmission is a synonym for HHT.The World Health Organization designation of a pandemic hinges on the demonstrable fact that there is sustained HHT in two regions of the world.
+
+
+== Synopsis ==
+Relevant pathogens may be viruses, bacteria, or fungi, and they may be spread through breathing, talking, coughing, sneezing, spraying of liquids, toilet flushing or any activities which generate aerosol particles or droplets or generate fomites, such as raising of dust.A 2007 study showed that influenza virus was still active on stainless steel 24 hours after contamination. Though on hands it survives only for five minutes, the constant contact with steel almost certainly transmits infection. Transfer efficiency depends not only on surface, but also on pathogen type. For example, avian influenza survives on both porous and non-porous materials for 144 hours.The pathogens may also be transmitted by poor use of cutlery or improper sanitation of dishes or bedlinen. Particularly problematic are toilet practices, which lead to the fecal-oral route. STDs are by definition spread through this vector.
+
+
+== List of HHT diseases ==
+Examples of some HHT diseases are listed below.
+
+
+=== Controlled ===
+measles: vaccine available
+mumps: vaccine available
+chicken pox: vaccine available
+small pox
+bubonic plague: slim non-nil risk
+pneumonic plague: 1910-11 Manchurian plague
+tuberculosis
+Norovirus
+monkeypox
+SARS-CoV-1
+MERS
+Avian flu
+Sexually transmitted infections (STIs) or sexually transmitted diseases (STDs):
+Syphilis, aka French pox
+
+
+=== Uncontrolled ===
+SARS-CoV-2
+
+
+== References ==
+
+
+=== Sources ===
+Cook, Nigel (2013). "10.1 Introduction; the role of fomites in the virus transmission". Viruses in Food and Water: Risks, Surveillance and Control. Cambridge: Woodhead Publishing. pp. 205–215. ISBN 978-0-85709-887-0.
+Larson, Elaine L.; Liverman, Catharyn T. (2011). "Understanding the Risk to Healthcare Personnel: Fomite Persistence". Preventing Transmission of Pandemic Influenza and Other Viral Respiratory Diseases: Personal Protective Equipment for Healthcare Personnel: Update 2010. Washington: National Academies Press. p. 41. ISBN 978-0-309-16254-8.

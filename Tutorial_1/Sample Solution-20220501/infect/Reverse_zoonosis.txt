@@ -1,0 +1,159 @@
+Reverse zoonosis, also known as zooanthroponosis, and sometimes anthroponosis (Greek zoon "animal", anthropos "man", nosos "disease"), refers to pathogens reservoired in humans that are capable of being transmitted to non-human animals.
+
+
+== Terminology ==
+Anthroponosis refers to pathogens sourced from humans and can include human to non-human animal transmission but also human to human transmission. The term zoonosis technically refers to disease transferred between any animal and another animal, human or non-human, without discretion, and also been defined as disease transmitted from animals to humans and vice versa. Yet because of human-centered medical biases, zoonosis tends to be used in the same manner as anthropozoonosis which specifically refers to pathogens reservoired in non-human animals that are transmissible to humans.Additional confusion due to frequency of scientists using "anthropozoonosis" and "zooanthroponosis" interchangeably was resolved during a 1967 Joint Food and Agriculture and World Health Organization committee meeting that recommended the use of "zoonosis" to describe the bidirectional interchange of infectious pathogens between animals and humans.Furthermore, because humans are rarely in direct contact with wild animals and introduce pathogens through "soft contact", the term "sapronotic agents" must be introduced. Sapronoses (Greek sapros "decaying") refers to human diseases that harbor the capacity to grow and replicate (not just survive or contaminate) in abiotic environments such as soil, water, decaying plants, animal corpses, excreta, and other substrata. Additionally, sapro-zoonoses can be characterized as having both a live host and a non-animal developmental site of organic matter, soil, or plants. Obligate intracellular parasites that cannot replicate outside of cells and are entirely reproductively reliant on entering the cell to use intracellular resources such as viruses, rickettsiae, chlamydiae, and Cryptosporidium parvum cannot be sapronotic agents.
+
+
+== Etymological pitfalls ==
+Categorizing of disease into epidemiologic classes by the infection's supposed source or the direction of transmission raises a number of contradictions that could be resolved by the use of cyclical models as demonstrated by the following scenarios:
+
+
+=== Zoonosis vs reverse zoonosis vs anthroponosis ===
+In the case of diseases transferred from arthropod vectors such as urban yellow fever, dengue, epidemic typhus, tickborne relapsing fever, zika fever, and malaria, the differentiation between terms becomes ever more hazy. For example, a human infected with malaria is bitten by a mosquito that is subsequently infected as well. This is a case of reverse zoonosis (human to animal). However, the newly infected mosquito then infects another human. This could be a case of zoonosis (animal to human) if the mosquito is considered the original source, or anthroponosis (human to human) if the human is considered the original source. If this infected mosquito instead infected a non-human primate, it could be considered a case of reverse zoonosis/zooanthroponosis (human to animal) if the human is considered the primary source, or simply zoonosis (animal to animal) if the mosquito is considered the primary source.
+
+
+=== Zoonosis vs anthroponosis ===
+Similarly, HIV originating in simians (crossover due to humans consuming wild chimpanzee bushmeat) and influenza A viruses originating in avians (crossover due to an antigenic shift) could have initially been considered a zoonotic transference as the infections first came from vertebrate animals, but could currently be regarded as an anthroponosis because of its potential to transfer between human to human.
+
+
+=== Sapronosis vs sapro-zoonosis ===
+Typical examples of sapronotic agents are fungal such as coccidioidomycosis, histoplasmosis, aspergillosis, cryptococcosis, Microsporum gypseum. Some can be bacterial from the sporulating clostridium and bacillus to Rhodococcus equi, Burkholderia pseudomallei, Listeria, Erysipelothrix, Yersinia pseudotuberculosis, legionellosis, Pontiac fever, and nontuberculous mycobacterioses. Other sapronotic agents are amebic as in primary amebic meningoencephalitis. Yet again, difficulties in classification arise in the case of sporulating bacteria whose infectious spores are only produced after a significant period of inactive vegetative growth within an abiotic environment, yet this is still considered a case of sapronoses. However, cases of zoo-sapronoses involving Listeria, Erysipelothrix, Yersinia pseudotuberculosis, Burkholderia pseudomallei, and Rhodococcus equi can be transferred by an animal or an abiotic substrate but usually occur via a fecal-oral route between humans and other animals.
+
+
+== Cases with modes of transmission ==
+
+
+=== Arthropod vectors ===
+
+
+==== Malaria ====
+Malaria involves the cyclical infection of animals (human and non-human) and mosquitoes from the genus Anopheles with a number of Plasmodium species. The Plasmodium parasite is transferred to the mosquito as it feeds on the blood of the infected animal whereupon it begins a sporogenic cycle in the gut of the mosquito that will infect another animal at the next blood meal. There does not seem to be any deleterious effects to the mosquito as a result of the parasitic infection. The Plasmodium brasilianum parasite normally found in primates is morphologically similar to the malarial inducing Plasmodium malariae that is more commonly found in humans and it is contested as to whether the two are actually different species. Nevertheless, 12 reports of malaria in the remotely located indigenous Yanomami communities of the Venezuelan Amazon arose where it was surprisingly found to be caused by a strain of P. brasilianum with 100% identical to sequences found in Alouatta seniculus monkeys. This suggests a definite zoonosis and high possibility of spillback back into non-human primate bands as reverse zoonoses.
+
+
+==== African sleeping sickness ====
+Trypanosoma brucei gambiense (T. b. gambiense) is a species of African trypanosomes which are protozoan hemoflagellates responsible for trypanosomiasis (more commonly known as African sleeping sickness) in humans and other animals. The protozoa are transferred via Tsetse flies where they multiply and can be transferred to yet another animal host during the fly's blood meal feeding. Outbreaks of sleeping sickness in certain human communities have been eliminated but only temporarily as constant re-introduction from unknown sources statistically suggests the presence of a non-human reservoir where spillback of the pathogen is maintained in a sylvatic cycle and re-introduced into the urban cycle. The presence of T. b. gambiense has been found separately in humans and livestock. This spurred a molecular study comparing serum reactivity of pigs, goats, and cows to human serum where notable similarities in all samples but especially in pig samples. Combined, these findings implicate a reverse zoonotic human to animal transmission.
+
+
+==== Arboviruses ====
+
+Yellow fever viruses, Dengue fever viruses, and Zika viruses are of the Flavivirus genera and Chikungunya virus is of the Alphavirus genera. All of them are considered arboviruses denoting their ability to be transmitted through arthropod vectors. Sylvatic transmission cycles for arboviruses within non-human primate communities have the potential to spillover into an urban cycle within humans where humans could be dead-end hosts in scenarios where further intermingling is eliminated but much more probable is a reemergence of these viruses into either cycle due to spillback. Apparently the maintenance of an arboviral urban cycle between humans requires a rare or understudied conjunction of factors to occur. One of the following situations occurs:
+
+An infected human in an urban environment feeds a sylvatic (typically remotely located) mosquito such as Haemogogus (which has a relatively long lifespan compared to other mosquitoes and can transmit the virus for extended periods) that infects another human or non-human animal that will serve as a reservoir.
+An urban Aedes (more commonly found in urban areas  feeds and transmits the virus to another human or non-human animal that will serve as a reservoir.
+Sufficient numbers of sylvatic vector mosquito and the animal reservoir inhabit the same ecologic niche in close contact to promote and sustain the zoonotic cycle of the virus.
+The animal reservoir of the virus maintains a suitable virus level in the blood to allow the infection of a vector mosquito.
+A bridge-vector mosquito such as Aedes albopictus, which can survive in an urban area and spread to rural, semi-rural, and forest areas could carry the virus to a sylvatic environment.
+Zika fever: The Zika virus is caused by the single stranded RNA Flavivirus that uses the Aedes mosquito as a vector to infect other human and animal hosts. A 2015 zika virus strain isolated from a human in Brazil was used to infect pregnant rhesus macaques intravenously and intraamniotically. Both the dams and the placentas were infected with Zika positive tissue samples being recorded for up to 105 days. This confirms a reverse zoonotic transference potential between humans and non-human primates.
+Yellow fever: Yellow fever virus also transmitted by the bite of an infected Aedes or Haemagogus species of mosquitoes that feed off an infected animal. The historical course of the American slave trade is a prime example of introduction of a pathogen to create a completely new sylvatic cycle. Previous hypotheses of a "New World YFV" were laid to rest in a 2007 study that examined rates of nucleotide substitution and divergence to determine that yellow fever was introduced into the Americas approximately 400 years ago from West Africa. It was also around the 17th century that yellow fever was documented by Europeans complicit in slave trafficking. The actual mode of introduction could have played out in a number of scenarios whether a viremic Old World human, infected Old World mosquito, eggs laid by an Old World infected mosquito, or all three were transported to the Americas seeing that yellow fever transmission was not uncommon on sailing vessels. Amidst more recent yellow fever outbreaks in southeastern Brazil, the spillback potential was highly indicated. Molecular comparisons of non-human primate outbreak strains proved to be more closely related to human strains than strains derived from other non-human primates thus suggesting a continuing reverse zoonosis.
+Chikungunya: The Chikungunya virus is a single stranded RNA alphavirus typically transmitted by the Aedes mosquitoes to another animal host. There is no evidence to suggest a barrier to Chikungunya switching hosts between humans and non-human primates because it has no preferences in any given primate species. It has a high potential to spill-over or spill-back into sylvatic cycles as was the case with the similar arbovirus that was imported to the Americas during the slave trade. Studies have proven chikungunya's potential to orally infect sylvatic types of mosquitoes including Haemagogus leucocelaenus and Aedes terrens. Moreover, in a serologic survey carried out in non-human primates of urban and peri-urban areas of Bahia State, 11 animals showed chikungunya neutralizing antibodies.
+Dengue fever: The Dengue virus is a flavivirus also transmissible by Aedes mosquito vectors to other animal hosts. Dengue was also introduced to the Americas by the slave trade along with Aedes aegypti. A 2009 study in French Guiana found that infections of dengue viruses types 1 through 4 were present in various different types of neotropical forest mammals other than primates such as rodents, marsupials, and bats. After sequence analyses, it was revealed that the 4 non-human mammalian strains had an 89% to 99% similarity index to human strains circulating at the same time. This confirms that other mammals in the vicinity have the potential to be infected by human sources and indicates presence of an urban cycle. A case to prove the arthropod vectors are capable of being infected comes from Brazil where Aedes albopictus (which frequents the backyards of human houses but easily spreads into rural, semi-rural, and wild environments) was found infected with dengue virus 3 in São Paulo State. Meanwhile, in the State of Bahia, the sylvatic vector Haemogogus leucocelaenus was found to be infected with dengue virus 1. In another study carried out in the Atlantic Forest of Bahia, primates (Leontopithecus chrysomelas and Sapajus xanthosternos) were found with antibodies dengue viruses 1 and 2 while sloths (Bradypus torquatus) had antibodies for dengue virus 3 therefore suggesting the possible presence of an established sylvatic cycle.
+
+
+=== Wild animals ===
+
+A large number of wild animals with habitats that have yet to be encroached upon by humans are still affected by sapronotic agents through contaminated water.
+
+
+==== Giardia ====
+Beavers: Giardia was introduced to beavers through runoff of human sewage upstream of a beaver colony.
+
+
+==== Influenza A virus subtype H1N1 ====
+Seals: In 1999, wild seals were admitted into a Dutch seal rehabilitation center with flu-like symptoms and it was found that they were in fact infected with a human influenza B like virus that had circulated in humans in 1995 and had undergone an antigenic shift since adaptation to its new seal host.
+
+
+==== Tuberculosis ====
+Red deer, wild boar: In areas of intensive game management that included big game fencing, supplementary feeding locations, and grazing livestock, cases of tuberculosis lesions in wild red deer and wild boars appeared. Some boars and deer shared the same strains of tuberculosis which were similar to those found in livestock and humans suggesting a possible sapronotic or sapro-zoonotic contamination of shared water sources, supplemental feed, direct contact with humans or livestock, or their excretions.
+
+
+=== Domesticated companionship animals ===
+
+
+==== E. coli ====
+Dogs, horses: Evidence of infection by human E. coli strains in several dogs and horses across Europe was found, thus implicating the possibility of zoonotic inter-special transmission of multiresistant strains from humans to companion animals and vice versa.
+
+
+==== Tuberculosis ====
+Dog: A Yorkshire terrier was admitted into a veterinary clinic with a chronic cough, poor weight retention, and vomiting being reported for months where it was revealed that the owner had recovered from tuberculosis, however the dog initially tested negative for tuberculosis in 2 different molecular assays and was discharged. 8 days later the dog was euthanized because of a urethral obstruction. A necroscopy was performed where liver and tracheobronchial lymph node samples in fact tested positive for the exact same strain of tuberculosis the owner had previously. This is a very clear case of reverse zoonosis.
+
+
+==== Influenza A virus subtype H1N1 ====
+Ferrets: Ferrets are often used in human clinical studies thus the potential for human influenza to infect them was previously confirmed. However confirmation of natural transference of a human H1N1 strain from the 2009 outbreak in household pet ferrets further implicates human to animal transference.
+
+
+==== COVID-19 ====
+Amidst the 2020 global pandemic of COVID-19, susceptibility of cats, ferrets, dogs, chickens, pigs, and ducks to the SARS-CoV-2 coronavirus was examined and it was found that it can be replicated in cats and ferrets with lethal results.
+
+Cats: The virus can be transmitted in the air between cats. Viral RNA was detected in feces within 3–5 days of infection and pathological studies detected viral RNA in the soft palate, tonsils, and trachea. Kittens acquired massive lesions in the lungs, nasal and tracheal mucosa epitheliums. Surveillance for SARS-CoV-2 in cats should be considered as an adjunct to elimination of COVID-19 in humans.
+Ferrets: Ferrets were inoculated with viral strains from the environment of the Huanan Seafood Market in Wuhan, China as well as human isolates from Wuhan. It was found that with both isolates, that the virus can replicate in the upper respiratory tract of ferrets for up to 8 days without causing disease or death and viral RNA was detected in rectal swabs. Pathological studies performed after 13 days of infection revealed mild peribronchitis in the lungs, severe lymphoplasmacytic perivasculitis and vasculitis amongst other ailments with antibody production against SARS-CoV-2 detected in all ferrets. The fact that SARS-CoV-2 replicates efficiently in the upper respiratory tract of ferrets makes them a candidate animal model for evaluating antiviral drugs or vaccine candidates against COVID-19.
+Dogs: Of the Beagle dogs tested, viral RNA was detected in fecal matter and 50% of the Beagles that were inoculated seroconverted after 14 days while the other 50% remained seronegative demonstrating a low susceptibility to SARS-CoV-2 in dogs.
+Chicken, duck, pig: There was no evidence of susceptibility in chickens, ducks, or pigs with all viral RNA swabs returning negative results and seronegative after 14 days post inoculation.
+
+
+=== Domesticated livestock animals ===
+
+
+==== Influenza A virus subtype H1N1 ====
+
+Turkeys: A Norwegian turkey breeder's flock exhibited a decrease in egg production with no other clinical signs after a farm hand reported having H1N1. A study revealed that the turkeys also had H1N1 and were seropositive to its antigens. Maternally derived H1N1 antibodies were detected in egg yolks and further genetic analyses revealed an identical H1N1 strain in the turkeys as the farm worker who likely infected the turkeys during artificial insemination.
+Pigs: Human to pig H1N1 transmission was reported in Canada, Korea, and eventually came to include every continent save Antarctica during the 2009 outbreak. It has also been known to spread during seasonal epidemics in France between humans and pigs.
+
+
+==== Methicillin-resistant Staphylococcus aureus ====
+Horses: 11 equine patients admitted into a veterinary hospital for various reasons from different farms over the span of approximately one year exhibited MRSA infections later. Considering that MRSA isolates are extremely rare in horses, it was suggested that the MRSA outbreak was due to nosocomial infection derived from a human during the horse's stay at the hospital.
+Cows, turkeys, pigs: A case of reverse zoonosis was proposed to explain how a particular human Methicillin Sensitive Streptococcus Aureus strain was found in livestock (pigs, turkeys, cows) with not only a loss of human virulence genes (which could decrease zoonotic potential for human colonization) but also the addition of methicillin resistance and a tetracycline (which will increase occurrence of MRSA infections). The concern here being that excessive antibiotic usage in livestock productions exacerbate the creation of novel antibiotic resistant zoonotic pathogens.
+
+
+=== Wild animals in captivity ===
+
+
+==== Tuberculosis ====
+Elephants: In 1996, The Hawthorne Circus Corporation reported 4 of their elephants and 11 of their keepers harboring M. tuberculosis infections. Unfortunately, these elephants had been sub-leased out to different circus acts and zoological gardens all over America. This spurred a nation-wide epidemic, but because tuberculosis isn't a disease that's typically transmitted from animals to humans, it was suggested that the epidemic was because of transference from a human handler to a captive elephant.
+
+
+==== Coronavirus ====
+Alpacas: A 2007 outbreak of alpaca coronavirus because of the intermingling happening at a national alpaca exhibition led to a comparison between human and alpaca coronaviruses in an attempt to deduce the source of the outbreak. It was found that the alpaca coronavirus is most evolutionarily similar to a human coronavirus strain that was isolated in the 1960s suggesting that an alpaca coronavirus could have very well been circulating for decades causing respiratory illness in herds undetected for lack of diagnostic capabilities. It also suggests a human to alpaca mode of transmission.
+
+
+==== Helminths and protozoans ====
+Primates: At the University of Ibadan Zoological Garden in Nigeria, fecal samples of zookeepers tested positive for helminths (Ancylostoma duodenale, Ascaris lumbricoides and Trichuris trichiura) and protozoan cysts (Giardia lamblia and Entamoeba histolytica). The exact same strain of helminths and protozoan cysts were found in the zoo's non-human primates thus implicating a zoonosis between the two.
+
+
+==== Measles ====
+Non-human primates: In 1996, a measles outbreak occurred in a sanctuary in 94 non-human primates. Although the source of the outbreak was never determined, serum and urine testing proved that the virus was definitely associated with recent human cases of measles in the U.S.
+
+
+==== Helicobacter pylori ====
+Marsupials: The stripe-face dunnart is an Australian marsupial that has faced multiple outbreaks of Helicobacter pylori in captivity. Stomach sampling from the marsupial revealed that the H. pylori strain responsible for the outbreaks aligned 100% with a strain originating from the human intestinal tract. Thus, it can be assumed that the outbreak was caused by the handlers.
+
+
+=== Wild animals in conservation areas ===
+
+
+==== Coronaviruses ====
+Chimpanzees: The transmission of the human coronavirus HCoV-OC43 to wild chimpanzees (Pan troglodytes verus) living in the Taï National Park, Côte d´Ivoire was reported in 2016 to 2017. These chimpanzees were accustomed to human presence that had been studying these particular communities since the 1980s  The HCoV-OC43, belonging to the species Betacoronavirus 1 (BetaCoV1), normally causes episodes of common cold in humans (this excludes SARS and MERS), but has also been detected in ungulates, carnivores, and lagomorphs. Therefore it is completely plausible that researchers or poachers could have inadvertently spread the virus to the chimpanzees thus revealing yet another interface in coronavirus host switching.
+
+
+==== Rhinovirus C ====
+Chimpanzees: Though previously considered a uniquely human pathogen, human Rhinovirus C was determined to be the cause of a 2013 outbreak of respiratory infections in chimpanzees in Uganda. Examination of chimpanzees from all over Africa found that they show a universal homozygosity for the 3 CDHR3-Y529 allele (cadherin related family member) which is a receptor that drastically increases susceptibility to rhinovirus C infection and asthma in humans. If respiratory viruses of human origin are capable of maintaining circulation in non-human primates, this would prove to be harmful should the infection spillback into human communities.
+
+
+==== Tuberculosis ====
+Elephants: A necroscopy of a free-ranging African elephant (Loxodonta africana) in Kruger National Park in South Africa found significant lung damage due to a human strain of M. tuberculosis. Elephants explore their environment with their trunks therefore it was very likely that aerosolized pathogens from domestic waste, contaminated water from a human community upstream, human excrement, or contaminated food from tourists was the source of the infection.
+
+
+==== Pneumoviruses ====
+Chimpanzees: In Uganda, reports of respiratory viruses of human origination infected two chimpanzee (Pan troglodytes schweinfurthii) communities in the same forest. It was later discovered to be caused by a human metapneumovirus (also known as MPV, Pneumoviridae, Metapneumovirus) and a human respirovirus 3 (also known as HRV3, Paramyxoviridae, Respirovirus, or formerly known as parainfluenza virus 3).
+
+
+==== Reverse zoonosis in gorillas ====
+Gorillas: Conservational areas subject to ecotourism in Uganda, Rwanda, and the Democratic Republic of the Congo, free-ranging gorillas have become increasingly accustomed to the presence of humans whether that be in the form of ranger guides, tourists, trackers, veterinarians, poachers, or researchers. Iodamoeba buetschlii, Giardia lamblia, Chilomastix sp., Endolimax nana, Entamoeba coli, and Entamoeba histolytica have been found in the feces of gorillas and promiscuous defecations left behind by humans encroaching on the habitat. Additionally, increased numbers of Cryptosporidium sp. and capillaria infections were found in gorillas that maintained more frequent contact with humans than those that did not. Together these findings suggest the occurrence of reverse zoonoses.
+
+
+== See also ==
+Cross-species transmission
+Zoonosis
+
+
+== References ==

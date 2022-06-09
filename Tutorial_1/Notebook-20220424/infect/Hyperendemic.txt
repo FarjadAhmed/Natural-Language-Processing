@@ -1,0 +1,24 @@
+In epidemiology, the term hyperendemic disease is used to refer to a disease which is constantly and persistently present in a population at a high rate of incidence and/or prevalence (occurrence) and which equally affects (i.e. which is equally endemic in) all age groups of that population. It is one of the various degrees of endemicity (i.e. degrees of transmission of an infectious disease). 
+
+
+== Definitions ==
+According to a more precise definition given by the Robert Koch Institute in Germany, hyperendemicity is not necessarily associated with a high incidence rate. A hyperendemic disease is one which is ubiquitously present with ongoing circulation in an endemic region with a high prevalence rate. As a result, a hyperendemic region shows a relatively low incidence rate but at the same time it poses a high risk of infection to people coming into the region.According to another definition discussing malaria, a hyperendemic region is defined to be one with a seasonally high degree of endemicity where immunity does not succeed to prevent the effects of a disease for all age groups.
+
+
+== Examples ==
+In the discussion of the dengue fever, a hyperendemic state is characterized by the continuous circulation of multiple viral serotypes in an area where a large pool of susceptible hosts and a competent vector (with or without seasonal variation) are constantly present.In another example, World Health Organization defines malaria to be hyperendemic if the percentage of persons with an enlarged spleen (spleen rate) is constantly greater than 50% for all age groups.
+
+
+== Difference with similar epidemiological concepts ==
+
+
+=== Difference with holoendemic ===
+An endemic disease is one with a continuous occurrence at an expected frequency over a certain period of time and in a certain geographical location. Two terms are used when the degree of transmission or infection of an endemic disease is high: hyperendemic and holoendemic. One of the differences between hyperendemic and holoendemic diseases is that hyperendemic diseases show a seasonally intense transmission in all age groups with a period of low or no transmission, whereas in holoendemic diseases, there is perennial (year-round) high level of transmission predominantly among young population with higher immunity among adults.
+
+
+=== Difference with hotspot ===
+Justin Lessler and others from Johns Hopkins University reported a rise in the usage of the ambiguous term "hotspot" in research and policy documents in late 2010s. Hotspots have
+been variously described as areas of elevated incidence or prevalence, higher transmission efficiency or risk, or higher probability of disease emergence. Lessler and others suggest that a hyperendemic region or synonymously a "burden hotspot" (defined as an area of elevated disease incidence or prevalence) should be distinguished from an "emergence hotspot" (defined as an area with a high frequency of emergence or reemergence of diseases or drug-resistant strains) and a "transmission hotspot" (defined as an area of elevated transmission efficiency i.e., an elevated reproductive number, R).
+
+
+== References ==

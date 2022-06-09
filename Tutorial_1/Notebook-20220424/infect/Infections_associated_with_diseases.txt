@@ -1,0 +1,27 @@
+Infections associated with diseases are those infections that are associated with possible infectious etiologies that meet the requirements of Koch's postulates. Other methods of causation are described by the Bradford Hill criteria and evidence-based medicine.
+Koch's postulates have been modified by some epidemiologists, based on the sequence-based detection of distinctive pathogenic nucleic acid sequences in tissue samples. When using this method, absolute statements regarding causation are not always possible. Higher amounts of distinctive pathogenic nucleic acid sequences should be in those exhibiting disease, compared to controls. In addition, the DNA load should become lower with the resolution of the disease. The distinctive pathogenic nucleic acid sequences load should also increase upon recurrence.
+Other conditions are met to establish cause or association including studies in disease transmission.  This means that there should be a high disease occurrence in those carrying a pathogen, evidence of a serological response to the pathogen, and the success of vaccination prevention. Direct visualization of the pathogen, the identification of different strains, immunological responses in the host, how the infection is spread and, the combination of these should all be taken into account to determine the probability that an infectious agent is the cause of the disease. A conclusive determination of a causal role of an infectious agent for in a particular disease using Koch's postulates is desired yet this might not be possible.The leading cause of death worldwide is cardiovascular disease, but infectious diseases are the second leading cause of death worldwide and the leading cause of death in infants and children.
+
+
+== Other causes ==
+Other causes or associations of disease are: a compromised immune system, environmental toxins, radiation exposure, diet and other lifestyle choices, stress, and genetics. Diseases may also be multifactorial, requiring multiple factors to induce disease. For example: in a murine model, Crohn's disease can be precipitated by a norovirus, but only when both a specific gene variant is present and a certain toxin has damaged the gut.
+
+
+== List of diseases associated with infectious bacteria and viruses ==
+A list of the more common and well-known diseases associated with infectious pathogens is provided and is not intended to be a complete listing.
+
+
+== Epidemiology ==
+Infectious pathogen-associated diseases include many of the most common and costly chronic illnesses. The treatment of chronic diseases accounts for 75% of all US healthcare costs (amounting to $1.7 trillion in 2009).
+
+
+== History ==
+One of first examples of systematic study of disease causation was Avicenna, in the tenth century. The history of infection and disease were observed in the 1800s and related to the one of the tick-borne diseases, Rocky Mountain spotted fever. The cause of viral encephalitis was discovered in Russia based upon epidemiological clustering of cases. The virus causing this illness was isolated in 1937. The rash typical of Lyme borreliosis was identified the early 1900s. Historically, some chronic diseases were linked or associated with infectious pathogens.
+
+
+== Further reading ==
+A more up-to-date version of this article which lists more diseases can be found here: List of Chronic Human Diseases Linked to Infectious Pathogens.
+
+
+== References ==
+ Using Wikipedia for Research

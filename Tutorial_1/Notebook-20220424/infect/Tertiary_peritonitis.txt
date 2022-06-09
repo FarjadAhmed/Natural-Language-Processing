@@ -1,0 +1,58 @@
+Tertiary peritonitis (also known as recurrent peritonitis) is the inflammation of the peritoneum which persists for 48 hours after a surgery that has been successfully carried out in adequate surgical conditions. Tertiary peritonitis is usually the most delayed and severe consequence of nosocomial intra-abdominal infection. Patients who acquire tertiary peritonitis are usually admitted to ICU due to the critical, life-threatening nature of the condition which can lead to multi-organ failure despite treatment and has a high mortality rate of 60%. Signs and symptoms of tertiary peritonitis include fever, hypotension and abdominal pain. Diagnosis of the condition is often difficult and treatment intervention should be as early as possible.
+
+
+== Signs and symptoms ==
+Presentation of tertiary peritonitis is often acute and clinical features can include:
+
+fever
+tachycardia
+tachypnea
+hypotension
+abdominal pain
+confusion
+abdominal distension
+nausea and vomiting
+
+
+== Causes ==
+Causes of tertiary peritonitis include:
+
+Postoperative peritonitis
+Pancreatitis
+Necrosis of the bowel
+Perforated ulcer
+Diverticulitis
+AppendicitisThe microflora bacteria which commonly cause infection in tertiary peritonitis are microorganisms of low intrinsic virulence. These include Enterococcus, Candida, Staphylococcus epidermidis and Enterobacter.There is a difference in the organisms which cause secondary peritonitis compared to those that cause tertiary peritonitis and this can be referred to as a microbial shift. Some microfloral organisms have demonstrated multi-drug resistance highlighting the difficulty in treating the condition and so there is a poor prognosis. The composition of the microflora organisms usually depends on the location of the cause of the tertiary peritonitis.
+
+
+=== Risk factors ===
+Age: >70
+APACHE II Score (scores over 20)
+Immunocompromised patient
+chronic condition
+female sex
+previous peritonitis
+existing organ failure measured by Goris score
+fungal infections
+malnutrition
+organisms resistant to antimicrobial therapy
+repeated surgical procedures
+
+
+== Diagnosis ==
+It is difficult to diagnose tertiary peritonitis. It is hard to distinguish between tertiary peritonitis and secondary peritonitis as there is usually a continuum between the two. It is hard to attain the exact point in which secondary peritonitis becomes tertiary peritonitis and so it is often missed clinically. 
+The diagnosis of tertiary peritonitis should be timely and preferably before laparotomy to help reduce the risk of complications. This will improve the outcome of the condition. Diagnosis of tertiary peritonitis is firstly supported by clinical signs e.g. fever, hypotension. Surgically, it is diagnosed by a second operation i.e. emergency laparotomy.  This is known as a “relaparotomy”.  In tertiary peritonitis, there is no anatomical defect in the lining of the peritoneum and so a planned or an emergency laparotomy after the initial treatment is the most common way to diagnose tertiary peritonitis.
+At present, there is no evidence in the effectiveness of specific clinical or laboratory parameters or scoring systems in place to specifically help aid and guide the diagnosis of tertiary peritonitis but in an ICU consensus conference, three parameters where suggested to help in the diagnosis of tertiary peritonitis. The clinical parameters include the Mannheim Peritonitis Index and the Simplified Acute Physiology Score II (SAPS II) and the laboratory parameters include the C-reactive protein test. These parameters can only help identify those patients who may develop future tertiary peritonitis, if they are performed early. It is important to note that these parameters are not definite assessments of tertiary peritonitis and so have limited clinical value.
+
+
+=== Definition ===
+Tertiary peritonitis can be defined as the persistence or recurrence of intra-abdominal infection with multiple organ failure and a systemic inflammatory response, following adequate therapy of primary or secondary peritonitis. This definition also has to encompass two crucial components which include the time period, which is 48hours, and there must be successful surgical source control. Source control refers to the physical actions taken to eliminate a focus of infection and contamination by microbes. This is achieved by drainage of the area, removal of infected tissue and measures used during the initial surgery to restore function of the area. Tertiary peritonitis is a frequent complication of intra-abdominal infection in those patients who have been admitted to intensive care units and it is a hospital-acquired infection.
+Tertiary peritonitis differs from secondary peritonitis due to the difference in microbial flora which is present and due to the lack of response to appropriate surgical treatment and antibiotics given.
+
+
+== Treatment ==
+Treatment of tertiary peritonitis should be commenced immediately after the diagnosis has been made. Mortality of the disease correlates with the severity of the disease, which is usually assessed by the APACHE II/III score, and it ultimately assess the risk of developing multiple organ failure. The mortality rate due to tertiary peritonitis can be up to 60%. This highlights severity and fatal nature of the disease.Treatment should be prompt and physiological support should be set up. This involves resuscitation including the checking the patients airways, breathing and circulation and the management of multi-organ failure.
+The treatment should also involve broad spectrum antibiotic therapy. Due to the microfloral organisms which cause tertiary peritonitis, treatment is difficult as the bacteria are often resistant to antibiotic treatment. Anti fungal treatment is also usually used in conjunction with antibiotic therapy. Depending on the severity of the infection, treatment duration can range from 48 hours up until 14 days.In addition, treatment of the condition also involves surgery to control the source of contamination and to also decrease the bacterial load which may be present. Surgical interventions can include drainage of fluid collections and abscesses, removal of necrotic tissue and preventative measures to prevent further infection. Furthermore, treatment should also be directed towards restoring the immunological imbalance.Early recognition and effective intervention are vital in achieving a successful outcome.
+
+
+== References ==

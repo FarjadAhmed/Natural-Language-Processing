@@ -1,0 +1,38 @@
+Respiratory tract infections (RTIs) are infectious diseases involving the respiratory tract. An infection of this type usually is further classified as an upper respiratory tract infection (URI or URTI) or a lower respiratory tract infection (LRI or LRTI). Lower respiratory infections, such as pneumonia, tend to be far more severe than upper respiratory infections, such as the common cold.
+
+
+== Types ==
+
+
+=== Upper respiratory tract infection ===
+
+The upper respiratory tract is considered the airway above the glottis or vocal cords; sometimes, it is taken as the tract above the cricoid cartilage. This part of the tract includes the nose, sinuses, pharynx, and larynx.Typical infections of the upper respiratory tract include tonsillitis, pharyngitis, laryngitis, sinusitis, otitis media, certain influenza types, and the common cold. Symptoms of URIs can include cough, sore throat, runny nose, nasal congestion, headache, low-grade fever, facial pressure, and sneezing.
+
+
+=== Lower respiratory tract infection ===
+
+The lower respiratory tract consists of the trachea (windpipe), bronchial tubes, bronchioles, and the lungs.
+Lower respiratory tract infections are generally more severe than upper respiratory infections. LRIs are the leading cause of death among all infectious diseases. The two most common LRIs are bronchitis and pneumonia. Influenza affects both the upper and lower respiratory tracts, but more dangerous strains such as the highly pernicious H5N1 tend to bind to receptors deep in the lungs.
+
+
+== Diagnosis ==
+
+Pulmonary Function Testing (PFT) allows for the evaluation and assessment of airways, lung function, as well as specific benchmarks to diagnose an array of respiratory tract infections. Methods such as gas dilution techniques and plethysmography help determine the functional residual capacity and total lung capacity. To discover whether or not to perform a set of advanced Pulmonary Function Testing will be based on abnormally high values in previous test results. A 2014 systematic review of clinical trials does not support routine rapid viral testing to decrease antibiotic use for children in emergency departments. It is unclear if rapid viral testing in the emergency department for children with acute febrile respiratory infections reduces the rates of antibiotic use, blood testing, or urine testing. The relative risk reduction of chest x-ray utilization in children screened with rapid viral testing is 77% compared with controls. In 2013 researchers developed a breath tester that can promptly diagnose lung infections.
+
+
+== Antibiotics ==
+Bacteria are unicellular organisms present on Earth can thrive in various environments, including the human body.  Antibiotics are a medicine designed to treat bacterial infections that need a more severe treatment course; antibiotic use is not recommended for common bacterial infections because the body is likely to treat them.  This medicine does not effectively treat a viral infection like sore throats, influenza,  bronchitis, and sinusitis, common respiratory tract infections. This is due to antibiotic properties that only allow bacteria's termination; antibiotics were not created to treat viruses.The CDC has reported that antibiotic prescription is high; 47 million prescriptions in the United States in 2018 were made for infections that do not need antibiotics to be treated with.  It is recommended to avoid antibiotic use unless bacterial infections are severe, transmissible, or have a high risk of further complications if left untreated.  Unnecessary use of antibiotics could increase antibiotic-resistant infections, affect the digestive system, create allergic reactions, and other intense side effects. A study published in JAMA found that narrow-spectrum antibiotics, such as amoxicillin, are just as effective as broad-spectrum alternatives for treating acute respiratory tract infections in children, but have a lower risk of side effects.
+
+
+== Prevention ==
+Despite the superior filtration capability of N95 filtering facepiece respirators measured in vitro, insufficient clinical evidence has been published to determine whether standard surgical masks and N95 filtering facepiece respirators are equivalent to preventing respiratory infections in healthcare workers.Adults in intensive care units (ICU) have a higher risk of acquiring an RTI. A combination of topical and systematic antibiotics taken prophylactically can prevent infection and improve adults' overall mortality in the ICU for adult patients receiving mechanical ventilation for at least 48 hours, and topical antibiotic prophylaxis probably reduces respiratory infections but not mortality.  However, the combination of treatments cannot rule out the relevant contribution in the systemic component of the observed reduction of mortality. There is no sufficient evidence to recommend that antibiotics be used to prevent complications from an RTI of unknown cause in children under the age of 5 years old.  High-quality clinical research in the form of randomized controlled trials assessed the effectiveness of Vitamin D, another review of poorer quality RCTs addressed the effectiveness of immunostimulants for preventing respiratory tract infections.  Despite some uncertainty due to small study sizes, there is some evidence that exercise may reduce severity of symptoms but had no impact on number of episodes or number of symptom days per episode.Viruses that cause RTI are more transmissible at very high or low relative humidity; ideal humidity for indoor spaces is between 40 and 60%. Therefore, relative humidity in this range can help lessen the risk of aerosol transmission.
+
+
+== Epidemiology ==
+Respiratory infections often have strong seasonal patterns, with temperate climates more affected during the winter. Several factors explain winter peaks in respiratory infections, including environmental conditions and changes in human behaviors. Viruses that cause respiratory infections are affected by environmental conditions like relative humidity and temperature. Temperate climate winters have lower relative humidity, which is known to increase the transmission of influenza.Of the viruses that cause respiratory infections in humans, most have seasonal variation in prevalence. Influenza, Human orthopneumovirus (RSV), and human coronaviruses are more prevalent in the winter. Human bocavirus  and Human metapneumovirus occur year-round, rhinoviruses (which cause the common cold) occur mostly in the spring and fall, and human parainfluenza viruses have variable peaks depending on the specific strain. Enteroviruses, with the exception of rhinoviruses, tend to peak in the summer.
+
+
+== References ==
+
+
+== External links ==

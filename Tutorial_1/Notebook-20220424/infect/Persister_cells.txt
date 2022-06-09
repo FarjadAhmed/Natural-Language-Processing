@@ -1,0 +1,39 @@
+Persister cells are subpopulations of cells that resist treatment, and become antimicrobial tolerant by changing to a state of dormancy or quiescence. Persister cells in their dormancy do not divide. The tolerance shown in persister cells  differs from antimicrobial resistance in that the tolerance is not inherited and is reversible.  When treatment has stopped the state of dormancy can be reversed and the cells can reactivate and multiply.  Most persister cells are bacterial, and there are also fungal persister cells, yeast persister cells, and cancer persister cells that show tolerance for cancer drugs.
+
+
+== History ==
+Recognition of bacterial persister cells dates back to 1944 when Joseph Bigger, an Irish physician working in England, was experimenting with the recently discovered penicillin.  Bigger used penicillin to lyse a suspension of bacteria and then inoculate a culture medium with the penicillin-treated liquid. Colonies of bacteria were able to grow after antibiotic exposure. The important observation that Bigger made was that this new population could again be almost eliminated by the use of penicillin except for a small residual population.  Hence the residual organisms were not antibiotic resistant mutants but rather a subpopulation of what he called ‘persisters’. The formation of bacterial persisters is now known to be a common phenomenon that can occur by the formation of persister cells prior to the antibiotic treatment or in response to a variety of antibiotics.
+
+
+== Relevance to chronic infections ==
+Antimicrobial tolerance is achieved by a small subpopulation of microbial cells termed persisters. Persisters are not mutants, but rather are dormant cells that can survive the antimicrobials that effectively eliminate their much greater number.  Persister cells have entered a non-growing, or extremely slow-growing physiological state which makes them tolerant (insensitive or refractory) to the action of antimicrobials.  When such persisting pathogenic microbes cannot be eliminated by the immune system, they become a reservoir from which recurrence of infection will develop. Such non-growing bacteria have been observed to persist during infections from Salmonella. Persister cells are the main cause of relapsing and chronic infections.The bacteria species Listeria monocytogenes, the main causal agent of listeriosis, has been shown to demonstrate persistence during infection in hepatocyte and trophoblast cells. The usual active lifestyle can change and the bacteria can remain in intracellular vacuoles entering into a slow non-growing state of persistence thus promoting their survival from antibiotics.Fungal persister cells are a common cause of recurring infections due to Candida albicans a common biofilm infection of implants.
+
+
+== Medical importance ==
+
+Antibiotic tolerance poses medically important challenges.  It is largely responsible for the inability to eradicate bacterial infections with antibiotic treatment.  Persister cells are highly enriched in biofilms, and this makes biofilm-related diseases difficult to treat.  Examples are chronic infections of implanted medical devices such as catheters and artificial joints, urinary tract infections, middle ear infections and fatal lung disease .
+
+
+== Resistance vs tolerance ==
+Unlike multiple drug resistance, and antimicrobial resistance, antimicrobial tolerance is transient, and not inherited. Antibiotic tolerant persister cells are not antibiotic resistant mutants. Resistance is caused by newly acquired genetic traits (by mutation or horizontal gene transfer) that are heritable and confer the ability to grow at elevated concentrations of antibiotics.  In contrast, tolerant bacteria have the same minimum inhibitory concentration (MIC) as susceptible bacteria, and differ in the duration of the treatment that they can survive. Antibiotic tolerance can be caused by a reversible physiological state in a small subpopulation of genetically identical cells, similar to a differentiated cell type.  It enables this small subpopulation of bacteria to survive their complete elimination by antibiotic use.  Persisting cells resume growth when the antibiotic is removed, and their progeny is sensitive to antibiotics.
+
+
+== Molecular mechanisms ==
+The molecular mechanisms that underlie persister cell formation, and antimicrobial tolerance are largely unknown. Persister cells are thought to arise spontaneously in a growing microbial population by a stochastic genetic switch, although inducible mechanisms of persister cell formation have been described. For instance, toxin-antitoxin systems, and a number of different stress responses such as the SOS response, the envelope stress response, and the starvation response have also been associated with persister cell formation in biofilms. 
+Owing to their transient nature and relatively low abundance, it is hard to isolate persister cells in sufficient numbers for experimental characterization, and only a few relevant genes have been identified to date.   The best-understood persistence factor is the E. coli high persistence gene, commonly abbreviated as hipA.Although tolerance is widely considered a passive state, there is evidence indicating it can be an energy-dependent process.  Persister cells in E. coli can transport intracellular accumulations antibiotic using an energy requiring efflux pump called TolC.A persister subpopulation has also been demonstrated in budding yeast Saccharomyces cerevisiae. Yeast persisters are triggered in a small subset of unperturbed exponentially growing cells by spontaneously occurring DNA damage, which leads to the activation of a general stress response and protection against a range of harsh drug and stress environments. As a result of the DNA damage, yeast persisters are also enriched for random genetic mutations that occurred prior to the stress, and are unrelated to the stress survival.In response to antifungals, fungal persister cells activate stress-response pathways, and two stress-protective molecules – glycogen, and trehalose accumulate in large amounts.
+
+
+== Potential treatment ==
+A study has shown that adding certain metabolites to aminoglycosides could enable  bacterial persisters to be eliminated. This study was carried out on a number of bacterial species including E. coli and S. aureus.Phage therapy, where applicable, entirely circumvents antibiotic tolerance.
+
+
+== See also ==
+Founder effect
+Population bottleneck
+
+
+== References ==
+
+
+== External links ==
+"Persister cells and mode of action of HipA". Archived from the original on March 28, 2010.

@@ -1,0 +1,40 @@
+Mycetoma is a chronic infection in the skin caused by either bacteria (actinomycetoma) or fungi (eumycetoma), typically resulting in a triad of painless firm skin lumps, the formation of weeping sinuses, and a discharge that contains grains. 80% occur in feet.Most eumycetoma is caused by M. mycetomatis, whereas most actinomycetoma is caused by N. brasiliensis, S. somaliensis, A. madurae and Actinomadura pelletieri. People who develop mycetoma likely have a weakened immune system. It can take between 3 months to 50 years from time of infection to first seeking healthcare advice.Diagnosis requires ultrasound and fine needle aspiration.While most cases of mycetoma occur in Sudan, Venezuela, Mexico, and India, its true prevalence and incidence are not well-known. It appears most frequently in people living in rural areas, particularly in farmers and shepherds, who are often men between 20 and 40 years earning the primary incomes for their families. It has been reported since 1840. The disease is listed by the World Health Organization (WHO) as a neglected tropical disease.
+
+
+== Risk ==
+Frequent exposure to penetrating wounds by thorns or splinters is a risk factor. This risk can be reduced by disinfecting wounds and wearing shoes.
+
+
+== Pathogenesis ==
+Mycetoma is caused by common saprotrophs found in the soil and on thorny shrubs in semi-desert climates. Some common causative agents are:
+Madurella mycetomatis (fungus)
+Nocardia brasiliensis (bacteria)
+Actinomadure madura (bacteria)
+Streptomyces somaliensis (bacteria)
+Actinomadura pelletieri (bacteria)Infection is caused as a result of localized skin trauma, such as stepping on a needle or wood splinter, or through a pre-existing wound.The first visible symptom of mycetoma is a typically painless swelling beneath the skin; over several years, this will grow to a nodule (lump). Affected people will experience massive swelling and hardening of the area, in addition to skin rupture and the formation of sinus tracts that discharge pus and grains filled with organisms. In many instances, the underlying bone is affected. Some people with mycetoma will not experience pain or discomfort, while others will report itching and/or pain.
+
+
+== Diagnosis ==
+There are currently no rapid diagnostic tools for mycetoma. Mycetoma is diagnosed through microscopic examination of the grains in the nodule and by analysis of cultures. Since the bacterial form and the fungal form of mycetoma infection of the foot share similar clinical and radiological features, diagnosis can be a challenge. Magnetic resonance imaging is a very valuable diagnostic tool. However, its results should be closely correlated with the clinical, laboratory and pathological findings.
+
+
+== Treatment ==
+While treatment will vary depending on the cause of the condition, it may include antibiotics or antifungal medication.  Actinomycetoma, the bacterial form, can be cured with antibiotics. Eumycetoma, the fungal form, is treated with antifungals. Surgery in the form of bone resection may be necessary in late presenting cases or to enhance the effects of medical treatment. In the more extensive cases amputation is another surgical treatment option. For both forms, extended treatment is necessary.
+
+
+== Epidemiology ==
+
+Mycetoma is endemic in some regions of the tropics and subtropics. India, Sudan and Mexico are most affected.
+
+
+== Other animals ==
+In cats, mycetoma can be treated with complete surgical removal. Antifungal drugs are rarely effective.
+
+
+== References ==
+
+
+== External links ==
+DermNet NZ: an online resource about skin diseases from the New Zealand Dermatological Society Incorporated.
+Orphanet: a reference portal from Europe that provides information on rare diseases and orphan drugs.
+ClinicalTrials.gov: a list of clinical trials related to mycetoma.

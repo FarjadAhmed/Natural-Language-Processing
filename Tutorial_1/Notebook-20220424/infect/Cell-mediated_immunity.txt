@@ -1,0 +1,62 @@
+Cell-mediated immunity is an immune response that does not involve antibodies. Rather, cell-mediated immunity is the activation of phagocytes, antigen-specific cytotoxic T-lymphocytes, and the release of various cytokines in response to an antigen.
+
+
+== History ==
+In the late 19th century Hippocratic tradition medicine system, the immune system was imagined into two branches: humoral immunity, for which the protective function of immunization could be found in the humor (cell-free bodily fluid or serum) and cellular immunity, for which the protective function of immunization was associated with cells. CD4 cells or helper T cells provide protection against different pathogens. Naive T cells, which are immature T cells that have yet to encounter an antigen, are converted into activated effector T cells after encountering antigen-presenting cells (APCs). These APCs, such as macrophages, dendritic cells, and B cells in some circumstances, load antigenic peptides onto the major histocompatibility complex (MHC) of the cell, in turn presenting the peptide to receptors on T cells. The most important of these APCs are highly specialized dendritic cells; conceivably operating solely to ingest and present antigens. Activated effector T cells can be placed into three functioning classes, detecting peptide antigens originating from various types of pathogen: The first class being 1) Cytotoxic T cells, which kill infected target cells by apoptosis without using cytokines, 2) Th1 cells, which primarily function to activate macrophages, and 3) Th2 cells, which primarily function to stimulate B cells into producing antibodies.In another ideology, the innate immune system and the adaptive immune system each comprise both humoral and cell-mediated components.
+
+
+== Synopsis ==
+Cellular immunity protects the body through:
+
+T-cell mediated immunity or T-cell immunity: activating antigen-specific cytotoxic T cells that are able to induce apoptosis in body cells displaying epitopes of foreign antigen on their surface, such as virus-infected cells, cells with intracellular bacteria, and cancer cells displaying tumor antigens;
+Macrophage and natural killer cell action: enabling the destruction of pathogens via recognition and secretion of cytotoxic granules (for natural killer cells) and phagocytosis (for macrophages); and
+Stimulating cells to secrete a variety of cytokines that influence the function of other cells involved in adaptive immune responses and innate immune responses.Cell-mediated immunity is directed primarily at microbes that survive in phagocytes and microbes that infect non-phagocytic cells. It is most effective in removing virus-infected cells, but also participates in defending against fungi, protozoans, cancers, and intracellular bacteria. It also plays a major role in transplant rejection.
+Type 1 immunity is directed primarily at viruses, bacteria, and protozoa and is responsible for activating macrophages, turning them into potent effector cells. This is achieved by the secretion of interferon gamma and TNF.
+
+
+== Overview ==
+CD4+ T-helper cells may be differentiated into two main categories:
+TH1 cells which produce interferon gamma and lymphotoxin alpha
+TH2 cells which produce IL-4, IL-5,and IL-13A third category called T helper 17 cells (TH17) were also discovered which are named after their secretion of Interleukin 17.
+CD8+ cytotoxic T-cells may also be differentiated into two main categories:
+Tc1 cells
+Tc2 CellsSimilarly to CD4+ TH cells, a third category called TC17 were discovered that also secretes Interleukin 17.
+As for the ILCs, they may be differentiated into three main categories
+ILC1 which secrete type 1 cytokines
+ILC2 which secrete type 2 cytokines
+ILC3 which secrete type 17 cytokines
+
+
+== Development of cells ==
+All type 1 cells begin their development from the common lymphoid progenitor (CLp) which then differentiates to become the common innate lymphoid progenitor (CILp) and the t-cell progenitor (Tp) through the process of lymphopoiesis.Common innate lymphoid progenitors may then be differentiated into a natural killer progenitor (NKp) or a common helper like innate lymphoid progenitor (CHILp). NKp cells may then be induced to differentiate into natural killer cells by IL-15. CHILp cells may be induced to differentiate into ILC1 cells by IL-15, into ILC2 cells by IL-7 or ILC3 cells by IL-7 as well.T-cell progenitors may differentiate into naïve CD8+ cells or naïve CD4+ cells. Naïve CD8+ cells may then further differentiate into TC1 cells upon IL-12 exposure,, [IL-4] can induce the differentiation into TC2 cells and IL-1 or IL-23 can induce the differentiation into TC17 cells. Naïve CD4+ cells may differentiate into TH1 cells upon IL-12 exposure, TH2 upon IL-4 exposure or TH17 upon IL-1 or IL-23 exposure.
+
+
+== Type 1 immunity ==
+Type 1 immunity makes use of the type 1 subset for each of these cell types. By secreting interferon gamma and TNF, TH1, TC1, and group 1 ILCS activate macrophages, converting them to potent effector cells.  It provides defense against intracellular bacteria, protozoa, and viruses. It is also responsible for inflammation and autoimmunity with diseases such as rheumatoid arthritis, multiple sclerosis, and inflammatory bowel disease all being implicated in type 1 immunity. Type 1 immunity consists of these cells:
+CD4+ TH1 cells
+CD8+ cytotoxic T cells (Tc1)
+T-Bet+ interferon gamma producing group 1 ILCs(ILC1 and Natural killer cells)CD4+ TH1 Cells
+It has been found in both mice and humans that the signature cytokines for these cells is interferon gamma and lymphotoxin alpha. The main cytokine for differentiation into TH1 cells is IL-12 which is produced by dendritic cells in response to the activation of pattern recognition receptors. T-bet is a distinctive transcription factor of TH1 cells. TH1 cells are also characterized by the expression of chemokine receptors which allow their movement to sites of inflammation. The main chemokine receptors on these cells are CXCR3A and CCR5. Epithelial cells and keratinocytes are able to recruit TH1 cells to sights of infection by releasing the chemokines CXCL9, CXCL10 and CXCL11 in response to interferon gamma. Additionally, interferon gamma secreted by these cells seems to be important in downregulating tight junctions in the epithelial barrier.CD8+ TC1 Cells
+These cells generally produce interferon gamma. Interferon gamma and IL-12 promote differentiation toward TC1 cells. T-bet activation is required for both interferon gamma and cytolytic potential. CCR5 and CXCR3 are the main chemokine receptors for this cell.Group 1 ILCs
+Groups 1 ILCs are defined to include ILCs expressing the transcription factor T-bet and were originally thought to only include natural killer cells. Recently, there have been a large amount of NKp46+ cells that express certain master [transcription factor]s that allow them to be designated as a dinstinct lineage of natural killer cells termed ILC1s. ILC1s are characterized by the ability to produce interferon gamma, TNF, GM-CSF and IL-2 in response to cytokine stimulation but have low or no cytotoxic ability.
+
+
+== See also ==
+Immune system
+Humoral immunity (vs. cell-mediated immunity)
+Immunity
+
+
+== References ==
+
+
+=== Bibliography ===
+Cell-mediated immunity (Encyclopædia Britannica)
+Chapter 8:T Cell-Mediated Immunity  Immunobiology: The Immune System in Health and Disease. 5th edition.
+[1] The 3 major types of innate and adaptive cell-mediated effector immunity
+[2] Innate lymphocytes-lineage, localization and timing of differentiation
+
+
+== Further reading ==
+Cell-Mediated Immunity. Murphy
+Cell-mediated immunity: How T cells recognize and respond to foreign antigens

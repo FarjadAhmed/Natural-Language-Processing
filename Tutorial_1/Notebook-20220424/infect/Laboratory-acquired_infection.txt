@@ -1,0 +1,30 @@
+A laboratory-acquired infection or LAI is an infection that is acquired in a laboratory, usually as part of a medical research facility or hospital.
+
+
+== Causes ==
+There are various microbes, viruses, fungi, and parasites that can infect a host via several routes of transmission.
+
+
+== Prevention ==
+Laboratory facilities handling microbes, viruses and/or parasites adhere to various biosecurity measures in order to prevent biosecurity accidents and incidents.
+
+
+=== OECD Best Practice Guidelines for Biological Resource Centres ===
+In 2001, experts from OECD countries created a consensus report called, calling upon "national governments to undertake actions to bring the BRC concept into being in concert with the international scientific community". The report details "Biological Resource Centres" (BRCs) as "repositories and providers of high-quality biological materials and information".
+
+
+== History ==
+The first laboratory-acquired infection was reported at the time of Pasteur and Koch in 1890.Prior to 1950, few reports were made on laboratory-acquired infections, due to the lower level of awareness concerning the problem. In 1951, a paper from Sulkin and Pike presented data on viral infections contracted in laboratories, which advised caution on handling viruses in laboratory environments and brought public awareness to the issue. Soon after, the American Public Health Association formed a standing committee on Laboratory Infections and Accidents and created a file to document cases of laboratory-acquired infections reported by the public and through private communications.
+
+
+== Epidemiology ==
+
+
+== See also ==
+Dora Lush
+Biotechnology risk
+Biosafety level
+List of accidents and incidents involving laboratory biosecurity
+
+
+== Reference section ==

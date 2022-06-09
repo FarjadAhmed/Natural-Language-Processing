@@ -1,0 +1,131 @@
+In biology, a pathogen (Greek: πάθος, pathos "suffering", "passion" and -γενής, -genēs "producer of") in the oldest and broadest sense, is any organism that can produce disease. A pathogen may also be referred to as an infectious agent, or simply a germ.
+The term pathogen came into use in the 1880s.  Typically, the term is used to describe an infectious microorganism or agent, such as a virus, bacterium, protozoan, prion, viroid, or fungus. Small animals, such as certain worms or insects, can also cause or transmit disease. However, these animals are usually, in common parlance, referred to as parasites rather than pathogens.  The scientific study of microscopic organisms, including microscopic pathogenic organisms, is called microbiology, while parasitology refers to the scientific study of parasites and the organisms that host them.
+There are several pathways through which pathogens can invade a host. The principal pathways have different episodic time frames, but soil has the longest or most persistent potential for harboring a pathogen.
+Diseases in humans that are caused by infectious agents are known as pathogenic diseases. Not all diseases are caused by pathogens, other causes are, for example, toxins, genetic disorders and the host's own immune system.
+
+
+== Pathogenicity ==
+Pathogenicity is the potential disease-causing capacity of pathogens.  Pathogenicity is related to virulence in meaning, but some authorities have come to distinguish it as a qualitative term, whereas the latter is quantitative.  By this standard, an organism may be said to be pathogenic or non-pathogenic in a particular context, but not "more pathogenic" than another.  Such comparisons are described instead in terms of relative virulence.  Pathogenicity is also distinct from the transmissibility of a virus, which quantifies the risk of infection.A pathogen may be described in terms of its ability to produce toxins, enter tissue, colonize, hijack nutrients, and its ability to immunosuppress the host.
+
+
+=== Context-dependent pathogenicity ===
+It is common to speak of an entire species of bacteria as pathogenic when it is identified as the cause of a disease (cf. Koch's postulates).  However, the modern view is that pathogenicity depends on the microbial ecosystem as a whole.  A bacterium may participate in opportunistic infections in immunocompromised hosts, acquire virulence factors by plasmid infection, become transferred to a different site within the host, or respond to changes in the overall numbers of other bacteria present.  For example, infection of mesenteric lymph glands of mice with Yersinia can clear the way for continuing infection of these sites by Lactobacillus, possibly by a mechanism of "immunological scarring".
+
+
+=== Related concepts ===
+
+
+==== Virulence ====
+Virulence (the tendency of a pathogen to reduce a host's fitness) evolves when a pathogen can spread from a diseased host, despite the host becoming debilitated. Horizontal transmission occurs between hosts of the same species, in contrast to vertical transmission, which tends to evolve toward symbiosis (after a period of high morbidity and mortality in the population) by linking the pathogen's evolutionary success to the evolutionary success of the host organism. Evolutionary biology proposes that many pathogens evolve an optimal virulence at which the fitness gained by increased replication rates is balanced by trade-offs in reduced transmission, but the exact mechanisms underlying these relationships remain controversial.
+
+
+==== Transmission ====
+
+Transmission of pathogens occurs through many different routes, including airborne, direct or indirect contact, sexual contact, through blood, breast milk, or other body fluids, and through the fecal-oral route.
+
+
+== Types of pathogens ==
+
+
+=== Algae ===
+
+Algae are single-celled eukaryotes that are generally non-pathogenic although pathogenic varieties do exist. Protothecosis is a disease found in dogs, cats, cattle, and humans caused by a type of green alga known as prototheca that lacks chlorophyll. Often found in soil and sewage, the species Prototheca wickerhami is the cause for most human cases of the rare infection of protothecosis.
+
+
+=== Bacteria ===
+
+The vast majority of bacteria, which can range between 0.15 and 700 μM in length, are harmless or beneficial to humans. However, a relatively small list of pathogenic bacteria can cause infectious diseases. Pathogenic bacteria have several ways that they can cause disease. They can either directly affect the cells of their host, produce endotoxins that damage the cells of their host, or cause a strong enough immune response that the host cells are damaged.
+
+One of the bacterial diseases with the highest disease burden is tuberculosis, caused by the bacterium Mycobacterium tuberculosis, which killed 1.5 million people in 2013, mostly in sub-Saharan Africa. Pathogenic bacteria contribute to other globally significant diseases, such as pneumonia, which can be caused by bacteria such as Streptococcus and Pseudomonas, and foodborne illnesses, which can be caused by bacteria such as Shigella, Campylobacter, and Salmonella.In patients with cystic fibrosis, Pseudomonas bacteria can form a biofilm that has a high resistance to the immune system and antibiotics by developing adaptive mutations and producing virulence factors.  Pathogenic bacteria also cause infections such as tetanus, typhoid fever, diphtheria, syphilis, and leprosy.
+
+
+=== Fungi ===
+
+Fungi are eukaryotic organisms that can function as pathogens. There are approximately 300 known fungi that are pathogenic to humans including Candida albicans, which is the most common cause of thrush, and Cryptococcus neoformans, which can cause a severe form of meningitis. The typical fungal spore size is <4.7 μm in length, but some spores may be larger.
+
+
+=== Prions ===
+
+Prions are misfolded proteins that are transmissible and can influence abnormal folding of normal proteins in the brain. They do not contain any DNA or RNA and cannot replicate other than to convert already existing normal proteins to the misfolded state. These abnormally folded proteins are found characteristically in many neurodegenerative diseases as they aggregate the central nervous system and create plaques that damages the tissue structure. This essentially creates "holes" in the tissue. It has been found that prions transmit three ways: obtained, familial, and sporadic. It has also been found that plants play the role of vector for prions. There are eight different diseases that affect mammals that are caused by prions such as scrapie, bovine spongiform encephalopathy (mad cow disease) and feline spongiform encephalopathy (FSE). There are also ten diseases that affect humans, such as Creutzfeldt–Jakob disease (CJD). and Fatal familial insomnia (FFI).
+
+
+=== Viroids ===
+
+Not to be confused with virusoid or virus. Viroids are the smallest infectious pathogens known. They are composed solely of a short strand of circular, single-stranded RNA that has no protein coating. All known viroids are inhabitants of higher plants, and most cause diseases, whose respective economic importance on humans vary widely.
+
+
+=== Viruses ===
+
+Viruses are small particles, typically between 20 and 300 nanometers in length, containing RNA or DNA. Viruses require a host cell to replicate. Some of the diseases that are caused by viral pathogens include smallpox, influenza, mumps, measles, chickenpox, ebola, HIV, rubella, and COVID-19.Pathogenic viruses are mainly from the families Adenoviridae, Coronaviridae, Picornaviridae, Herpesviridae, Hepadnaviridae, Flaviviridae, Retroviridae, Orthomyxoviridae, Paramyxoviridae, Papovaviridae, Polyomavirus, Rhabdoviridae, and Togaviridae. HIV is a notable member of the family Retroviridae which affected 37.9 million people across the world in 2018.
+
+
+=== Other parasites ===
+
+Protozoans are single-celled eukaryotes that feed on microorganisms and organic tissues. Considered as "one-celled animal" as they have animal like behaviors such as motility, predation, and a lack of a cell wall. Many protozoan pathogens are considered human parasites as they cause a variety of diseases such as: malaria, amoebiasis, giardiasis, toxoplasmosis, cryptosporidiosis, trichomoniasis, Chagas disease, leishmaniasis, African trypanosomiasis (sleeping sickness), Acanthamoeba keratitis, and primary amoebic meningoencephalitis (naegleriasis).Parasitic worms (helminths) are macroparasites that can be seen by the naked eye. Worms live and feed in their living host, receiving nourishment and shelter while affecting the host's way of digesting nutrients. They also manipulate the host's immune system by secreting immunomodulatory products which allows them to live in their host for years. Many parasitic worms are more commonly intestinal that are soil-transmitted and infect the digestive tract; other parasitic worms are found in the host's blood vessels. Parasitic worms living in the host can cause weakness and even lead to many diseases. Parasitic worms can cause many diseases to both humans and animals. Helminthiasis (worm infection), ascariasis, and enterobiasis (pinworm infection) are a few that are caused by various parasitic worms.
+
+
+== Pathogen hosts ==
+
+
+=== Bacteria ===
+Although bacteria can be pathogens themselves, they can also be infected by pathogens. Bacteriophages are viruses, also known as phage (plural) and phages, that infect bacteria often leading to the death of the bacteria that was infected. Common bacteriophages include T7 and Lambda phage. There are bacteriophages that infect every kind of bacteria including both gram-negative and gram-positive. Even pathogenic bacteria that infect other species, including humans, can be infected with a phage.
+
+
+=== Plants ===
+Plants can play host to a wide range of pathogen types including viruses, bacteria, fungi, nematodes, and even other plants. Notable plant viruses include the Papaya ringspot virus which has caused millions of dollars of damage to farmers in Hawaii and Southeast Asia, and the Tobacco mosaic virus which caused scientist Martinus Beijerinck to coin the term "virus" in 1898. Bacterial plant pathogens are also a serious problem causing leaf spots, blights, and rots in many plant species. The top two bacterial pathogens for plants are Pseudomonas syringae and Ralstonia solanacearum which cause leaf browning and other issues in potatoes, tomatoes, and bananas.
+
+Fungi are another major pathogen type for plants. They can cause a wide variety of issues such as shorter plant height, growths or pits on tree trunks, root or seed rot, and leaf spots. Common and serious plant fungi include the rice blast fungus, Dutch elm disease, chestnut blight and the black knot and brown rot diseases of cherries, plums, and peaches. It is estimated that pathogenic fungi alone cause up to a 65% reduction in crop yield.Overall, plants have a wide array of pathogens and it has been estimated that only 3% of the disease caused by plant pathogens can be managed.
+
+
+=== Animals ===
+Animals often get infected with many of the same or similar pathogens as humans including prions, viruses, bacteria, and fungi. While wild animals often get illnesses, the larger danger is for livestock animals. It is estimated that in rural settings, 90% or more of livestock deaths can be attributed to pathogens. The prion disease bovine spongiform encephalopathy, commonly known as Mad cow disease, is one of the few prion diseases that affect animals. Other animal diseases include a variety of immunodeficiency disorders that are caused by viruses related to the Human immunodeficiency virus (HIV) including BIV and FIV.
+
+
+=== Humans ===
+
+Humans can be infected with many types of pathogens including prions, viruses, bacteria, and fungi. Viruses and bacteria that infect humans can cause symptoms such as sneezing, coughing, fever, vomiting, and even lead to death. Some of these symptoms are caused by the virus itself, while others are caused by the immune system of the infected person.
+
+
+== Treatment ==
+
+
+=== Prion ===
+Despite many attempts, to date no therapy has been shown to halt the progression of prion diseases.
+
+
+=== Virus ===
+A variety of prevention and treatment options exist for some viral pathogens. Vaccines are one common and effective preventive measure against a variety of viral pathogens. Vaccines prime the immune system of the host, so that when the potential host encounters the virus in the wild, the immune system can defend against infection quickly. Vaccines exist for viruses such as the measles, mumps, and rubella viruses and the influenza virus. Some viruses such as HIV, dengue, and chikungunya do not have vaccines available.Treatment of viral infections often involves treating the symptoms of the infection rather than providing any medication that affects the viral pathogen itself. Treating the symptoms of a viral infection gives the host immune system time to develop antibodies against the viral pathogen which will then clear the infection. In some cases, treatment against the virus is necessary. One example of this is HIV where antiretroviral therapy, also known as ART or HAART, is needed to prevent immune cell loss and the progression into AIDS.
+
+
+=== Bacteria ===
+
+Much like viral pathogens, infection by certain bacterial pathogens can be prevented via vaccines. Vaccines against bacterial pathogens include the anthrax vaccine and the pneumococcal vaccine. Many other bacterial pathogens lack vaccines as a preventive measure, but infection by these bacteria can often be treated or prevented with antibiotics. Common antibiotics include amoxicillin, ciprofloxacin, and doxycycline. Each antibiotic has different bacteria that it is effective against and has different mechanisms to kill that bacteria. For example, doxycycline inhibits the synthesis of new proteins in both gram-negative and gram-positive bacteria which leads to the death of the affected bacteria.Due in part to over-prescribing antibiotics in circumstances where they are not needed, some bacterial pathogens have developed antibiotic resistance and are becoming hard to treat with classical antibiotics. A genetically distinct strain of Staphylococcus aureus called MRSA is one example of a bacterial pathogen that is difficult to treat with common antibiotics. A report released in 2013 by the Center for Disease Control (CDC) estimated that each year in the United States, at least 2 million people get an antibiotic-resistant bacterial infection, and at least 23,000 people die from those infections.Due to their indispensability in Bacteria, essential persistent DNA methyltransferases are potential targets for the development of epigenetic inhibitors capable of, for example, enhance the therapeutic activity of antimicrobials, or decrease a pathogen's virulence.
+
+
+=== Fungi ===
+Infection by fungal pathogens is treated with anti-fungal medication. Fungal infections such as athlete's foot, jock itch, and ringworm are infections of the skin and can be treated with topical anti-fungal medications like Clotrimazole. Other common fungal infections include infections by the yeast strain Candida albicans. Candida can cause infections of the mouth or throat, commonly referred to as thrush, or it can cause vaginal infections. These internal infections can either be treated with anti-fungal creams or with oral medication. Common anti-fungal drugs for internal infections include the Echinocandin family of drugs and Fluconazole.
+
+
+=== Algae ===
+Algae are commonly not thought of as pathogens, but the genus Prototheca is known to cause disease in humans. Treatment for this kind of infection is currently under investigation and there is no consistency in clinical treatment.
+
+
+== Sexual interactions ==
+Many pathogens are capable of sexual interaction.  Among pathogenic bacteria, sexual interaction occurs between cells of the same species by the process of natural genetic transformation.  Transformation involves the transfer of DNA from a donor cell to a recipient cell and the integration of the donor DNA into the recipient genome by recombination.  Examples of bacterial pathogens capable of natural transformation are Helicobacter pylori, Haemophilus influenzae, Legionella pneumophila, Neisseria gonorrhoeae and Streptococcus pneumoniae.Eukaryotic pathogens are often capable of sexual interaction by a process involving meiosis and syngamy.  Meiosis involves the intimate pairing of homologous chromosomes and recombination between them.  Examples of eukaryotic pathogens capable of sex include the protozoan parasites Plasmodium falciparum, Toxoplasma gondii, Trypanosoma brucei, Giardia intestinalis, and the fungi Aspergillus fumigatus, Candida albicans and Cryptococcus neoformans.Viruses may also undergo sexual interaction when two or more viral genomes enter the same host cell.  This process involves pairing of homologous genomes and recombination between them by a process referred to as multiplicity reactivation.  Examples of viruses that undergo this process are herpes simplex virus, human immunodeficiency virus, and vaccinia virus.The sexual processes in bacteria, microbial eukaryotes, and viruses all involve recombination between homologous genomes that appears to facilitate the repair of genomic damage to the pathogens caused by the defenses of their respective target hosts.
+
+
+== See also ==
+
+Antigenic escape
+Ecological competence
+Emerging Pathogens Institute
+Human pathogen
+Pathogen-Host Interaction Database (PHI-base)
+
+
+== References ==
+
+
+== External links ==
+Pronunciation Guide to Microorganisms (1)
+Pronunciation Guide to Microorganisms (2)

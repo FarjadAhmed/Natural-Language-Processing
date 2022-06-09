@@ -1,0 +1,37 @@
+Viral load, also known as viral burden, is a numerical expression of the quantity of virus in a given volume of fluid, including biological and environmental specimens. It is not to be confused with viral titre or viral titer, which depends on the assay. When an assay for measuring the infective virus particle is done (Plaque assay, Focus assay), viral titre often refers to the concentration of infectious viral particles, which is different from the total viral particles. Sputum and blood plasma are two bodily fluids from which viral load is measured. As an example of environmental specimens, the viral load of norovirus can be determined from run-off water on garden produce. Norovirus has not only prolonged viral shedding and has the ability to survive in the environment but a minuscule infectious dose is required to produce infection in humans: less than 100 viral particles.Viral load is often expressed as viral particles, (virions) or infectious particles per mL depending on the type of assay. A higher viral burden, titre, or viral load often correlates with the severity of an active viral infection. The quantity of virus per mL can be calculated by estimating the live amount of virus in an involved fluid. For example, it can be given in RNA copies per millilitre of blood plasma.
+Tracking viral load is used to monitor therapy during chronic viral infections, and in immunocompromised patients such as those recovering from bone marrow or solid organ transplantation. Currently, routine testing is available for HIV-1, cytomegalovirus, hepatitis B virus, and hepatitis C virus. Viral load monitoring for HIV is of particular interest in the treatment of people with HIV, as this is continually discussed in the context of management of HIV/AIDS. An undetectable viral load does not implicate a lack of infection. HIV positive patients on long-term combination antiretroviral therapy may present with an undetectable viral load on most clinical assays since the concentration of virus particles is below the limit of detection (LOD).
+
+
+== Technologies for viral load testing ==
+A 2010 review study by Puren et al. categorizes viral load testing into three types: (1) nucleic acid amplification based tests (NATs or NAATs) commercially available in the United States with Food and Drug Administration (FDA) approval, or on the market in the European Economic Area (EEA) with the CE marking; (2) "Home–brew" or in-house NATs; (3) non-nucleic acid-based test.
+
+
+=== Nucleic acid-based tests (NATs) ===
+There are many different molecular based test methods for quantifying the viral load using NATs. The starting material for amplification can be used to divide these molecular methods into three groups:
+Target amplification which uses the nucleic acid itself. Just a few of the more common methods
+The polymerase chain reaction (PCR) method of in vitro DNA synthesis uses a DNA template, polymerase, buffers, primers, and nucleotides to multiply the HIV in the blood sample. Then a chemical reaction marks the virus. The markers are measured and used to calculate the amount of virus.  PCR is used to quantify integrated DNA.
+Reverse transcription polymerase chain reaction (RT-PCR) is a variation of PCR that can be used to quantify viral RNA. RNA is used as the starting material for this method and converted to double-stranded DNA, using the enzyme reverse transcriptase (RT) for PCR.
+The nucleic acid sequence-based amplification (NASBA) method is a transcription-based amplification system (TAS) variation of PCR. RNA is used as the target and a DNA copy is made. The DNA copy is then transcribed into RNA and amplified. Several TAS commercial variations are available including; transcription-mediated amplification (TMA), and self-sustaining sequence replication (3SR).
+Probe specific amplification uses synthetic probes that preferentially bind to a target sequence. The probes are then amplified
+Signal amplification uses large amounts of signal bound to an unamplified target originally present in the sample. One commonly used method:
+The branched DNA (bDNA) method can use either DNA or RNA as the target nucleic acid. Short probes attached to a solid support and capture the target nucleic acid. Additional extender probes also bind to the target nucleic acid and to numerous reporter molecules which are used to increase the signal intensity, which is converted to a viral count.
+
+
+== Plasma specimens ==
+EDTA plasma is a good source of cell-free viral RNA for RNA-based viral load testing. Consideration of specimen collection, storage and biosafety measures is essential.  Extraction of RNA from plasma requires specialized equipment, reagents and training, placing it out of reach for medium to small labs with limited resources. A large sample (> 1 mL of plasma) is needed for a linear range bottoming out at 50 copies/mL, requiring venipuncture.  This linear range is best for treatment monitoring.  If a higher linear range of more than 1000 copies/mL is acceptable, a finger stick would supply a sufficient specimen for diagnosis of HIV infection during infancy.
+
+
+=== Storage ===
+EDTA plasma can be stored at room temperature for 30 hours, 14 days at 4 °C and extended periods of time at -70 °C without significant decreases in viral load signal.  The RNA in smaller blood specimens, such as dried plasma spots (DPS) or dried blood spots (DBS) from finger sticks, is reportedly stable at room temperature for periods ranging from 4 weeks to 1 year.  The virus is inactivated in dried samples, reducing the danger from specimen handling.  DBS and DPS were successfully evaluated for viral load testing, but their linear range is 3 log10 or 4 log10 copies/mL.  Because of this lack of sensitivity, dried specimens are useful for HIV screening but not for viral load determination.
+
+
+=== Measuring ===
+Viral load is typically reported as copies of HIV in a milliliter (mL) of blood. Changes in viral load are usually reported as a log change (in powers of 10). For example, a three log increase in viral load (3 log10) is an increase of 103 or 1,000 times the previously reported level, while a drop from 500,000 to 500 copies would be a three-log-drop (also 3 log10).
+
+
+=== Other factors that affect viral load ===
+Different test methods often give different results for the same patient sample. To be comparable the same test method (target amplification, probe specific amplification, or signal amplification) should be used each time a patient specimen is run. Ideally patient testing should be conducted at the same medical laboratory, using the same viral load test and analyzer.
+Time of day, fatigue, and stress can also affect viral load values.  Recent immunizations or infections can affect the viral load test. Testing should be postponed for at least four weeks after an immunization or infection.
+
+
+== References ==

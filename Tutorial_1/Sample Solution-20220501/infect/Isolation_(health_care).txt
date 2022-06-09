@@ -1,0 +1,110 @@
+In health care facilities, isolation represents one of several measures that can be taken to implement in infection control: the prevention of communicable diseases from being transmitted from a patient to other patients, health care workers, and visitors, or from outsiders to a particular patient (reverse isolation). Various forms of isolation exist, in some of which contact procedures are modified, and others in which the patient is kept away from all other people. In a system devised, and periodically revised, by the U.S. Centers for Disease Control and Prevention (CDC), various levels of patient isolation comprise application of one or more formally described "precaution".
+Isolation is most commonly used when a patient is known to have a contagious (transmissible from person-to-person) viral or bacterial illness. Special equipment is used in the management of patients in the various forms of isolation. These most commonly include items of personal protective equipment (gowns, masks, and gloves) and engineering controls (positive pressure rooms, negative pressure rooms, laminar air flow equipment, and various mechanical and structural barriers). Dedicated isolation wards may be pre-built into hospitals, or isolation units may be temporarily designated in facilities in the midst of an epidemic emergency.
+Isolation should not be confused with quarantine or biocontainment. Quarantine is the compulsory separation and confinement, with restriction of movement, of individuals or groups who have potentially been exposed to an infectious microorganism, to prevent further infections, should infection occur. Biocontainment refers to laboratory biosafety in microbiology laboratories in which the physical containment (BSL-3, BSL-4) of highly pathogenic organisms is accomplished through built-in engineering controls.When isolation is applied to a community or a geographic area it is known as a cordon sanitaire. Reverse isolation of a community, to protect its inhabitants from coming into contact with an infectious disease, is known as protective sequestration.
+
+
+== Importance ==
+Contagious diseases can spread to others through various forms. Four types of infectious disease transmission can occur:
+
+contact transmission, which can be through direct physical contact, indirect contact through fomites, or droplet contact in which airborne infections spread short distances,
+vehicular transmission, which involves contaminated objects,
+airborne transmission, which involves spread of infectious particles through air,
+vector transmission, which is spread through insects or animals.Depending on the contagious disease, transmission can occur within a person's home, school, worksite, health care facility, and other shared spaces within the community. Even if a person takes all necessary precautions to protect oneself from disease, such as being up-to-date with vaccines and practicing good hygiene, he or she can still get sick. Some people may not be able to protect themselves from diseases and may develop serious complications if they contract the disease. Therefore, disease isolation is an important infection prevention and control practice used to protect others from disease. Disease isolation can prevent healthcare-acquired infections of hospital-acquired infections (HCAIs), reduce threats of antibiotic resistance infections, and respond to new and emerging infectious disease threats globally.
+
+
+== Types of precautions ==
+The U.S. Centers for Disease Control and Prevention (CDC) created various levels of disease isolation (also described "precaution"). These precautions are also reviewed and revised by the CDC.
+
+
+=== Universal/standard ===
+
+Universal precautions  refer to the practice, in medicine, of avoiding contact with patients' bodily fluids, by means of the wearing of nonporous articles such as medical gloves, goggles, and face shields. The practice was widely introduced in 1985–88. In 1987, the practice of universal precautions was adjusted by a set of rules known as body substance isolation. In 1996, both practices were replaced by the latest approach known as standard precautions. Use of personal protective equipment is now recommended in all health settings.
+One of the most standard practices for all medical professionals to reduce spread of disease is hand hygiene, or removing microorganisms from your hands. Frequent hand hygiene is essential for protection of healthcare workers and patients from hospital-acquired infection. Hospitals have specific approved disinfectants and approved methods for hand washing; defined by the American Nursing Association (ANA) and American Association of Nurse Anesthetists (AANA), proper hand washing with soap and water is defined as, splash water on hands, apply antiseptic soap, and scrub for at least 20 seconds. Approved hand washing with alcohol based sanitizers is, apply sanitizer to middle of hand and rub hands together covering all surfaces and fingernails until dry without touching anything.
+
+
+=== Transmission-based ===
+
+Transmission-based precautions are additional infection control precautions – over and above universal/standard precautions – and the latest routine infection prevention and control practices applied for patients who are known or suspected to be infected or colonized with infectious agents, including certain epidemiologically important pathogens. The latter require additional control measures to effectively prevent transmission. There are three types of transmission-based precautions:
+
+Contact precautions are intended to prevent transmission of infectious agents, including epidemiologically important microorganisms, which are spread by direct or indirect contact with the patient or the patient's environment.
+Droplet precautions are intended to prevent transmission of pathogens spread through close respiratory or mucous membrane contact with respiratory secretions.
+Preventative measures such as personal protective equipment can be worn to prevent direct contact with mucous membrane and respiratory secretion. Many techniques can be applied in order to stop the spread of disease such as gloves. Along with gloves, gowns are also advised to be worn; gowns must be fitted with correct coverage, be tied tightly around the back, and disposed of in the proper receptacles prior to removal of gloves. Eye protection, hair coverings, and surgical masks are also required; all PPE, eye protection, hair coverings, and masks must be properly fitted to the face, covering eyes, nose, hairs, and mouths, be pre-tested in order to assure they are the correct size, and be sanitized or disposed of after contact with patient.
+Airborne precautions prevent transmission of infectious agents that remain infectious over long distances when suspended in the air (e.g., rubeola virus [measles], varicella virus [chickenpox], M. tuberculosis, and possibly SARS-CoV).
+Airborne pathogens can remain in the air and on objects for long periods of time; one of the easiest ways to prevent this spread is through disinfection and sterilization. The American Nurses Association and American Association of Nurse Anesthesiology set guidelines for sterilization and disinfection based on the Spaulding Disinfection and Sterilization Classification Scheme (SDSCS). The SDSCS classifies sterilization techniques into three categories: critical, semi-critical, and non-critical. For critical situations, or situations involving contact with sterile tissue or the vascular system, sterilize devices with sterilants that destroy all bacteria, rinse with sterile water, and use of chemical germicides. In semi-critical situations, or situations with contact of mucous membranes or non-intact skin, high-level disinfectants are required. Cleaning and disinfecting devices with high-level disinfectants, rinsing with sterile water, and drying all equipment surfaces to prevent microorganism growth are methods nurses and doctors must follow. For non-critical situations, or situations involving electronic devices, stethoscopes, blood pressure cuffs, beds, monitors and other general hospital equipment, intermediate level disinfection is required. “Clean all equipment between patients with alcohol, use protective covering for non-critical surfaces that are difficult to clean, and hydrogen peroxide gas. . .for reusable items that are difficult to clean."
+
+
+=== Isolation ===
+According to the CDC, isolation is the act of separating a sick individual with a contagious disease from healthy individuals without that contagious disease in order to protect the general public from exposure of a contagious disease.Special equipment is used in the management of patients in the various forms of isolation. These most commonly include items of personal protective equipment (gowns, masks, and gloves) and engineering controls (positive pressure rooms, negative pressure rooms, laminar air flow equipment, and various mechanical and structural barriers). Dedicated isolation wards may be pre-built into hospitals, or isolation units may be temporarily designated in facilities in the midst of an epidemic emergency.Many forms of isolation exist.
+Contact isolation is used to prevent the spread of diseases that can be spread through contact with open wounds. Health care workers making contact with a patient on contact isolation are required to wear gloves, and in some cases, a gown.Respiratory isolation is used for diseases that are spread through particles that are exhaled. Those having contact with or exposure to such a patient are required to wear a mask.
+
+Reverse isolation is a way to prevent a patient in a compromised health situation from being contaminated by other people or objects. It often involves the use of laminar air flow and mechanical barriers (to avoid physical contact with others) to isolate the patient from any harmful pathogens present in the external environment.High isolation is used to prevent the spread of unusually highly contagious, or high consequence, infectious diseases (e.g., smallpox, Ebola virus). It stipulates mandatory use of: (1) gloves (or double gloves if appropriate), (2) protective eyewear (goggles or face shield), (3) a waterproof gown (or total body Tyvek suit, if appropriate), and (4) a respirator (at least FFP2 or N95 NIOSH equivalent), not simply a surgical mask. Sometimes negative pressure rooms or powered air-purifying respirators (PAPRs) are also used.Strict isolation is used for diseases spread through the air and in some cases by contact. Patients must be placed in isolation to prevent the spread of infectious diseases. Those who are kept in strict isolation are often kept in a special room at the facility designed for that purpose. Such rooms are equipped with a special lavatory and caregiving equipment, and a sink and waste disposal are provided for workers upon leaving the area.
+
+
+==== Self-isolation ====
+
+Self-isolation, seclusion or home isolation  is the act of quarantining oneself to prevent infection of oneself or others, either voluntarily or to comply with relevant regulations or guidance. The practice became notable during the COVID-19 pandemic. Key features are:
+
+staying at home
+separating oneself from other people – for example, trying not to be in the same room as other people at the same time
+asking friends, family members or delivery services to carry out errands, such as getting groceries, medicines or other shopping
+asking delivery drivers to leave items outside for collection.The Irish Health Service Executive recommends regularly monitoring symptoms and not disposing of rubbish until the self-isolation ends, warning also that "self-isolation can be boring or frustrating. It may affect your mood and feelings. You may feel low, worried or have problems sleeping. You may find it helps to stay in touch with friends or relatives by phone or on social media."The UK Government states that anyone who is self-isolating should "not go to work, school, or public areas, and do not use public transport or taxis. 
+Nobody should go out even to buy food or other essentials, and any exercise must be taken within your home". As of March 2020 UK employers may provide sick pay to support self-isolation. Citizens Advice says that people on zero-hours contracts can also receive sick pay. For the purposes of people who have traveled to the UK, "self-isolate" and "self-isolation" are legally defined terms whose meaning is set out in the Health Protection (Coronavirus, International Travel) (England) Regulations 2020.
+
+
+== Isolation of health care workers ==
+
+Disease isolation is relevant to the work and safety of health care workers. Health care workers may be regularly exposed to various types of illnesses and are at risk of getting sick. Disease spread can occur between a patient and a health care worker, even if the health care workers take all necessary precautions to minimize transmission, including proper hygiene and being up-to-date with vaccines. If a health care worker gets sick with a communicable disease, the possible spread may occur to other health care workers or susceptible patients within the health care facility. This can include patients with a weakened immune system and may be at risk for serious complications.Health care workers who become infected with certain contagious agents may not be permitted to work with patients for a period of time. The Occupational Safety and Health Administration (OSHA) has implemented several standards and directives applicable to protecting health care workers from the spread of infectious agents. These include bloodborne pathogens, personal protective equipment, and respiratory protections. The CDC has also released resource for health care facilities to assist in assessing and reducing risk for occupational exposure to infectious diseases. The purpose of these standards and guidelines is to prevent the spread of disease to others in a health care facility.
+
+
+== Consequences ==
+
+Disease isolation is rarely disputed for its importance in protecting others from disease. However, it is important to consider the consequences disease isolation may have on an individual. For instance, patients may not be able to receive visitors, and in turn, become lonely. Patients may experience depression, anxiety, and anger. Small children may feel their isolation is a punishment. Staff may need to spend more time with patients. Patients may not be able to receive certain types of care due to the risk that other patients may become contaminated. This includes forms of care that involve use of equipment common to all patients at the facility, or that involve transporting the patient to an area of the facility common to all patients. Given the impact of isolation on patients, social and emotional support may be needed.Although a majority of health care professionals advocate for disease isolation as an effective means of reducing disease transmission, some health care professionals are concerned with implementing such control protocols given the possible negative consequences on patients. Patients isolated with Methicillin Resistant Staphylococcus Aureus (MRSA) can also be negatively impacted by having less documented care/bedside visits from attending and residents.
+
+
+== Ethics ==
+
+Disease isolation serves as an important method to protect the general community from disease, especially in a hospital or community-wide outbreak. However, this intervention poses an ethical question on rights of the individual versus rights of the general community.In cases of disease outbreaks, isolation can be argued as an ethical and necessary precaution for protecting the community from further disease transmission. This can be seen during the 2014 Disneyland measles outbreak and 2014 Ebola outbreak. This can be justified using felicific calculus to predict the outcomes (consequences) of moral action between the individual rights versus the rights of the general public during disease isolation. This justifies that disease isolation is most likely to result in the greatest amount of positive outcomes for the largest number of people.Disease isolation can also be justified as a morally legitimate ethical practice in public health based on the reciprocal relationship between the individual and the state. The individual is obligated to protect others by preventing further spread of disease, respect the instructions from public health authorities and sequester themselves in their homes and not attend public gatherings, and act as a first responder (if a healthcare professional) by providing services to protect and restore public health. The state, on the other hand, is obligated to provide support to individuals burdened as a result of restrictive measures (e.g. compensation for missed work, providing access to food and other necessities for those medically isolated, assistance for first responders to balance personal/professional obligations), ensure several legal protections are in place for those subjected to restrictive measures and communicate all relevant information regarding the necessity of restriction.
+
+
+=== The United Nations and the Siracusa Principles ===
+Guidance on when and how human rights can be restricted to prevent the spread of infectious disease is found in the Siracusa Principles, a non-binding document developed by the Siracusa International Institute for Criminal Justice and Human Rights and adopted by the United Nations Economic and Social Council in 1984. The Siracusa Principles state that restrictions on human rights under the International Covenant on Civil and Political Rights must meet standards of legality, evidence-based necessity, proportionality, and gradualism, noting that public health can be used as grounds for limiting certain rights if the state needs to take measures "aimed at preventing disease or injury or providing care for the sick and injured." Limitations on rights (such as medical isolation) must be "strictly necessary," meaning that they must: 
+
+respond to a pressing public or social need (health)
+proportionately pursue a legitimate aim (prevent the spread of infectious disease)
+be the least restrictive means required for achieving the purpose of the limitation
+be provided for and carried out in accordance with the law
+be neither arbitrary nor discriminatory
+only limit rights that are within the jurisdiction of the state seeking to impose the limitation.In addition, when medical isolation is imposed, public health ethics specify that:
+
+all restrictive actions must be well-supported by data and scientific evidence
+all information must be made available to the public
+all actions must be explained clearly to those whose rights are restricted and to the public
+all actions must be subject to regular review and reconsideration.Finally, the state is ethically obligated to guarantee that:
+
+infected people will not be threatened or abused
+basic needs such as food, water, medical care, and preventive care will be provided
+communication with loved ones and with caretakers will be permitted
+constraints on freedom will be applied equally, regardless of social considerations
+patients will be compensated fairly for economic and material losses, including salary.
+
+
+== See also ==
+Seclusion
+Quarantine
+Social distancing
+Barrier nursing
+Body substance isolation
+
+
+== Further reading ==
+Ahlawat, A., Mishra, S. K., Birks, J. W., Costabile, F., & Wiedensohler, A. (2020). "Preventing airborne transmission of SARS-CoV-2 in hospitals and nursing homes." International Journal of Environmental Research and Public Health, 17(22), 8553.
+Faria, M. A. (2002, June 1). Medical history - hygiene and sanitation. Hacienda Publishing
+Bowdle, A., Jelacic, S., Shishido, S., & Munoz-Price, L. S. (2020). Infection prevention precautions for routine anesthesia care during the SARS-CoV-2 pandemic. Anesthesia and Analgesia, 131(5), 1342–1354.
+"Infection Prevention and Control Guidelines For Anesthesia Care." (2015, February 15). Park Ridge, Illinois: American Association of Nurse Anesthesiology.
+
+
+== External links ==
+Chart showing recommendations for various forms of isolation
+
+
+== References ==

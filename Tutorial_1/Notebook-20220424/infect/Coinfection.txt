@@ -1,0 +1,36 @@
+Coinfection is the simultaneous infection of a host by multiple pathogen species. In virology, coinfection includes simultaneous infection of a single cell by two or more virus particles. An example is the coinfection of liver cells with hepatitis B virus and hepatitis D virus, which can arise incrementally by initial infection followed by superinfection.Global prevalence or incidence of coinfection among humans is unknown, but it is thought to be commonplace, sometimes more common than single infection.  Coinfection with helminths affects around 800 million people worldwide.Coinfection is of particular human health importance because pathogen species can interact within the host. The net effect of coinfection on human health is thought to be negative. Interactions can have either positive or negative effects on other parasites. Under positive parasite interactions, disease transmission and progression are enhanced and this is also known as syndemism. Negative parasite interactions include microbial interference when one bacterial species suppresses the virulence or colonisation of other bacteria, such as Pseudomonas aeruginosa suppressing pathogenic Staphylococcus aureus colony formation. The general patterns of ecological interactions between parasite species are unknown, even among common coinfections such as those between sexually transmitted infections. However, network analysis of a food web of coinfection in humans suggests that there is greater potential for interactions via shared food sources than via the immune system.A globally common coinfection involves tuberculosis and HIV. In some countries, up to 80% of tuberculosis patients are also HIV-positive. The potential for dynamics of these two infectious diseases to be linked has been known for decades. Other common examples of coinfections are AIDS, which involves coinfection of end-stage HIV with opportunistic parasites and polymicrobial infections like Lyme disease with other diseases. Coinfections sometimes can epitomize a zero sum game of bodily resources, and precise viral quantitation demonstrates children co-infected with rhinovirus and respiratory syncytial virus, metapneumovirus or parainfluenza virus have lower nasal viral loads than those with rhinovirus alone.
+
+
+== Poliovirus ==
+Poliovirus is a positive single-stranded RNA virus in the family Picornaviridae.    Coinfections appear to be common and several pathways have been identified for transmitting multiple virions to a single host cell.  These include transmission by virion aggregates, transmission of viral genomes within membrane vesicles, and transmission by bacteria bound by several viral particles.Drake demonstrated that poliovirus is able to undergo multiplicity reactivation.  That is, when polioviruses were irradiated with UV light and allowed to undergo multiple infections of host cells, viable progeny could be formed even at UV doses that inactivated the virus in single infections. Poliovirus can undergo genetic recombination when at least two viral genomes are present in the same host cell.  Kirkegaard and Baltimore presented evidence that RNA-dependent RNA polymerase (RdRP) catalyzes recombination by a copy choice mechanism in which the RdRP switches between (+)ssRNA templates during negative strand synthesis.  Recombination in RNA viruses appears to be an adaptive mechanism for transmitting an undamaged genome to virus progeny.
+
+
+== Examples ==
+Anaplasmosis
+Bacteriophage coinfection
+GB virus C
+HIV-HCV coinfection
+HIV-TB coinfection (enhances TB transmission and lethality)
+Hepatitis D
+Hookworm-malaria coinfection
+Mansonella perstans
+Trichuriasis
+Chikungunya and Dengue coinfection
+Dengue and HIV coinfection (suppresses HIV)
+Chagas and HIV coinfection
+Most sexually transmitted diseases and HIV (enhance HIV transmission)
+Some COVID-19 patients, or those who were ill with other coronaviruses, can be co-infected with seasonal influenza (flu) viral strains, certain viral strains that cause the common cold, or can be co-infected with bronchitis or pneumonia from another bacterial or viral micro-organism. Even more dangerous, some of them could already have conditions like tuberculosis or active AIDS that make patients very vulnerable.
+
+
+== See also ==
+Infectious disease
+List of human diseases associated with infectious pathogens
+Superinfection
+Syndemic
+Opportunistic infection
+
+
+== References ==
+
+
+== External links ==

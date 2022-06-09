@@ -1,0 +1,23 @@
+The critical community size (CCS) is the minimum size of a closed population within which a human-to-human, non-zoonotic pathogen can persist indefinitely.When the size of the closed population falls below the critical community size level, the low density of infected hosts causes extinction of the pathogen. This epidemiologic phenomenon was first identified during measles outbreaks in the 1950s.The critical community size depends on:
+Speed of transmission
+How long until a person who has recovered remains immune
+Fatality rate
+Birth and death rate in the general population
+
+
+== See also ==
+Compartmental models in epidemiology – Type of mathematical model used for infectious diseases
+Epidemiology – Aspect of health and disease science
+Force of infection
+Mathematical modelling of infectious disease – Using mathematical models to understand infectious disease transmission
+Transmission risks and rates
+
+
+== References ==
+
+
+== External links ==
+The Collection of Biostatistics Research Archive
+'Epidemiology' – In: Philip S. Brachman, Medical Microbiology (fourth edition), US National Center for Biotechnology Information
+Monash Virtual Laboratory - Simulations of epidemic spread across a landscape
+People's Epidemiology Library

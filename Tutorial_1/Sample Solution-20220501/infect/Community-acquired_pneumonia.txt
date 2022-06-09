@@ -1,0 +1,175 @@
+Community-acquired pneumonia (CAP) refers to pneumonia (any of several lung diseases) contracted by a person outside of the healthcare system. In contrast, hospital-acquired pneumonia (HAP) is seen in patients who have recently visited a hospital or who live in long-term care facilities. CAP is common, affecting people of all ages, and its symptoms occur as a result of oxygen-absorbing areas of the lung (alveoli) filling with fluid. This inhibits lung function, causing dyspnea, fever, chest pains and cough.
+CAP, the most common type of pneumonia, is a leading cause of illness and death worldwide. Its causes include bacteria, viruses, fungi and parasites. CAP is diagnosed by assessing symptoms, performing a physical examination, by x-ray or by sputum examination. Patients with CAP sometimes require hospitalization, and it is treated primarily with antibiotics, antipyretics and cough medicine. Some forms of CAP can be prevented by vaccination and by abstaining from tobacco products.
+
+
+== Signs and symptoms ==
+
+
+=== Common symptoms ===
+
+Coughing which produces greenish or yellow sputum
+A high fever, accompanied by sweating, chills and shivering
+Sharp, stabbing chest pains
+Rapid, shallow, often painful breathing
+
+
+=== Less-common symptoms ===
+Coughing up blood (hemoptysis)
+Headaches, including migraines
+Loss of appetite
+Excessive fatigue
+Bluish skin (cyanosis)
+Nausea
+Vomiting
+Diarrhea
+Joint pain (arthralgia)
+Muscle aches (myalgia)
+Rapid heartbeat
+Dizziness or lightheadedness
+
+
+=== In the elderly ===
+New or worsening confusion
+Hypothermia
+Poor coordination, which may lead to falls
+
+
+=== In infants ===
+Unusual sleepiness
+Yellowing of the skin (jaundice)
+Difficulty feeding
+
+
+=== Complications ===
+Major complications of CAP include:
+
+Sepsis - A life-threatening reaction to infection. A common cause of sepsis is bacterial pneumonia, frequently the result of infection with streptococcus pneumoniae. Patients with sepsis require intensive care with blood pressure monitoring and support against hypotension. Sepsis can cause liver, kidney and heart damage.
+Respiratory failure - CAP patients often have dyspnea, which may require support. Non-invasive machines (such as bilevel positive airway pressure), a tracheal tube or a ventilator may be used.
+Pleural effusion and empyema - Microorganisms from the lung may trigger fluid collection in the pleural cavity, or empyema. Pleural fluid, if present, should be collected with a needle and examined. Depending on the results, complete drainage of the fluid with a chest tube may be necessary to prevent proliferation of the infection.  Antibiotics, which do not penetrate the pleural cavity well, are less effective.
+Abscess - A pocket of fluid and bacteria may appear on X-ray as a cavity in the lung. Abscesses, typical of aspiration pneumonia, usually contain a mixture of anaerobic bacteria. Although antibiotics can usually cure abscesses, sometimes they require drainage by a surgeon or radiologist.
+
+
+== Causes ==
+Many different microorganisms can cause CAP.  However, the most common cause is Streptococcus pneumoniae. Certain groups of people are more susceptible to CAP-causing pathogens - infants, adults with chronic conditions (such as chronic obstructive pulmonary disease), and senior citizens. Alcoholics and others with compromised immune systems are more likely to develop CAP from Haemophilus influenzae or Pneumocystis jirovecii. A definitive cause is identified in only half the cases.
+
+
+=== Neonates and infants ===
+It is possible for a fetus to develop a lung infection before birth by aspirating infected amniotic fluid or through a blood-borne infection which crossed the placenta. Infants can also inhale contaminated fluid from the vagina at birth. The most prevalent pathogen causing CAP in newborns is Streptococcus agalactiae, also known as group-B streptococcus (GBS). GBS causes more than half of CAP in the first week after birth. Other bacterial causes of neonatal CAP include Listeria monocytogenes and a variety of mycobacteria. CAP-causing viruses may also be transferred from mother to child; herpes simplex virus, the most common, is life-threatening, and adenoviridae, mumps and enterovirus can also cause pneumonia. Another cause of neonatal CAP is Chlamydia trachomatis, which, though acquired at birth, does not cause pneumonia until two to four weeks later. It usually presents with no fever and a characteristic, staccato cough.
+CAP in older infants reflects increased exposure to microorganisms, with common bacterial causes including Streptococcus pneumoniae, Escherichia coli, Klebsiella pneumoniae, Moraxella catarrhalis and Staphylococcus aureus. Maternally-derived syphilis is also a cause of CAP in infants. Viral causes include human respiratory syncytial virus (RSV), human metapneumovirus, adenovirus, human parainfluenza viruses, influenza and rhinovirus, and RSV is a common source of illness and hospitalization in infants. CAP caused by fungi or parasites is not usually seen in otherwise-healthy infants.
+
+
+=== Children ===
+Although children older than one month tend to be at risk for the same microorganisms as adults, children under five years of age are much less likely to have pneumonia caused by Mycoplasma pneumoniae, Chlamydophila pneumoniae or Legionella pneumophila than older children. In contrast, older children and teenagers are more likely to acquire Mycoplasma pneumoniae and Chlamydophila pneumoniae than adults.
+
+
+=== Adults ===
+A full spectrum of microorganisms is responsible for CAP in adults, and patients with certain risk factors are more susceptible to infections by certain groups of microorganisms. Identifying people at risk for infection by these organisms aids in appropriate treatment.
+Many less-common organisms can cause CAP in adults; these may be determined by identifying specific risk factors, or when treatment for more common causes fails.
+
+
+=== Risk factors ===
+Some patients have an underlying problem which increases their risk of infection. Some risk factors are:
+
+Obstruction - When part of the airway (bronchus) leading to the alveoli is obstructed, the lung cannot eliminate fluid; this can lead to pneumonia. One cause of obstruction, especially in young children, is inhalation of a foreign object such as a marble or toy. The object lodges in a small airway, and pneumonia develops in the obstructed area of the lung. Another cause of obstruction is lung cancer, which can block the flow of air.
+Lung disease - Patients with underlying lung disease are more likely to develop pneumonia. Diseases such as emphysema and habits such as smoking result in more frequent and more severe bouts of pneumonia. In children, recurrent pneumonia may indicate cystic fibrosis or pulmonary sequestration.
+Immune problems - Immune-deficient patients, such as those with HIV/AIDS, are more likely to develop pneumonia. Other immune problems that increase the risk of developing pneumonia range from severe childhood immune deficiencies, such as Wiskott–Aldrich syndrome, to the less severe common variable immunodeficiency.
+
+
+== Pathophysiology ==
+The symptoms of CAP are the result of lung infection by microorganisms and the response of the immune system to the infection. Mechanisms of infection are different for viruses and other microorganisms.
+
+
+=== Viruses ===
+Up to 20 percent of CAP cases can be attributed to viruses. The most common viral causes are influenza, parainfluenza, human respiratory syncytial virus, human metapneumovirus and adenovirus. Less common viruses which may cause serious illness include chickenpox, SARS, avian flu and hantavirus.Typically, a virus enters the lungs through the inhalation of water droplets and invades the cells lining the airways and the alveoli. This leads to cell death; the cells are killed by the virus or they self-destruct. Further lung damage occurs when the immune system responds to the infection. White blood cells, particularly lymphocytes, activate chemicals known as cytokines which cause fluid to leak into the alveoli. The combination of cell destruction and fluid-filled alveoli interrupts the transportation of oxygen into the bloodstream. In addition to their effects on the lungs, many viruses affect other organs. Viral infections weaken the immune system, making the body more susceptible to bacterial infection, including bacterial pneumonia.
+
+
+=== Bacteria and fungi ===
+Although most cases of bacterial pneumonia are caused by Streptococcus pneumoniae, infections by atypical bacteria such as Mycoplasma pneumoniae, Chlamydophila pneumoniae, and Legionella pneumophila can also cause CAP. Enteric gram-negative bacteria, such as Escherichia coli and Klebsiella pneumoniae, are a group of bacteria that typically live in the large intestine; contamination of food and water by these bacteria can result in outbreaks of pneumonia. Pseudomonas aeruginosa, an uncommon cause of CAP, is a difficult bacteria to treat.
+Bacteria and fungi typically enter the lungs by inhalation of water droplets, although they can reach the lung through the bloodstream if an infection is present. In the alveoli, bacteria and fungi travel into the spaces between cells and adjacent alveoli through connecting pores. The immune system responds by releasing neutrophil granulocytes, white blood cells responsible for attacking microorganisms, into the lungs. The neutrophils engulf and kill the microorganisms, releasing cytokines which activate the entire immune system. This response causes fever, chills and fatigue, common symptoms of CAP. The neutrophils, bacteria and fluids leaked from surrounding blood vessels fill the alveoli, impairing oxygen transport. Bacteria may travel from the lung to the bloodstream, causing septic shock (very low blood pressure which damages the brain, kidney, and heart).
+
+
+=== Parasites ===
+A variety of parasites can affect the lungs, generally entering the body through the skin or by being swallowed. They then travel to the lungs through the blood, where the combination of cell destruction and immune response disrupts oxygen transport.
+
+
+== Diagnosis ==
+Patients with symptoms of CAP require evaluation. Diagnosis of pneumonia is made clinically, rather than on the basis of a particular test. Evaluation begins with a physical examination by a health provider, which may reveal fever, an increased respiratory rate (tachypnea), low blood pressure (hypotension), a fast heart rate (tachycardia) and changes in the amount of oxygen in the blood. Palpating the chest as it expands and tapping the chest wall to identify dull, non-resonant areas can identify stiffness and fluid, signs of CAP. Listening to the lungs with a stethoscope (auscultation) can also reveal signs associated with CAP. A lack of normal breath sounds or the presence of crackles can indicate fluid consolidation. Increased vibration of the chest when speaking, known as tactile fremitus, and increased volume of whispered speech during auscultation can also indicate the presence of fluid.Several tests can identify the cause of CAP. Blood cultures can isolate bacteria or fungi in the bloodstream. Sputum Gram staining and culture can also reveal the causative microorganism. In severe cases, bronchoscopy can collect fluid for culture. Special tests, such as urinalysis, can be performed if an uncommon microorganism is suspected.
+Chest X-rays and X-ray computed tomography (CT) can reveal areas of opacity (seen as white), indicating consolidation. CAP does not always appear on x-rays, sometimes because the disease is in its initial stages or involves a part of the lung not clearly visible on x-ray. In some cases, chest CT can reveal pneumonia not seen on x-rays. However, congestive heart failure or other types of lung damage can mimic CAP on x-ray.When signs of pneumonia are discovered during evaluation, chest X-rays and examination of the blood and sputum for infectious microorganisms may be done to support a diagnosis of CAP. The diagnostic tools employed will depend on the severity of illness, local practices and concern about complications of the infection. All patients with CAP should have their blood oxygen monitored with pulse oximetry. In some cases, arterial blood gas analysis may be required to determine the amount of oxygen in the blood. A complete blood count (CBC) may reveal extra white blood cells, indicating infection.
+
+
+== Prevention ==
+CAP may be prevented by treating underlying illnesses that increasing its risk, by smoking cessation, and by vaccination. Vaccination against haemophilus influenzae and streptococcus pneumoniae in the first year of life has been protective against childhood CAP. A vaccine against streptococcus pneumoniae, available for adults, is recommended for healthy individuals over 65 and all adults with COPD, heart failure, diabetes mellitus, cirrhosis, alcoholism, cerebrospinal fluid leaks or who have had a splenectomy. Re-vaccination may be required after five or ten years.Patients who have been vaccinated against streptococcus pneumoniae, health professionals, nursing-home residents and pregnant women should be vaccinated annually against influenza. During an outbreak, drugs such as amantadine, rimantadine, zanamivir and oseltamivir have been demonstrated to prevent influenza.
+
+
+== Treatment ==
+
+CAP is treated with an antibiotic that kills the infecting microorganism; treatment also aims at managing complications. If the causative microorganism is unidentified, which is often the case, the laboratory identifies the most effective antibiotic; this may take several days.
+Health professionals consider a person's risk factors for various organisms when choosing an initial antibiotic. Additional consideration is given to the treatment setting; most patients are cured by oral medication, while others must be hospitalized for intravenous therapy or intensive care.
+Current treatment guidelines recommend a beta lactam, like amoxicillin and a macrolide, like azithromycin or clarithromycin, or a quinolone, such as levofloxacin. Doxycycline is the antibiotic of choice in the UK for atypical bacteria, due to increased clostridium difficile colitis in hospital patients linked to the increased use of clarithromycin.
+Ceftriaxone and azithromycin are often used to treat community acquired pneumonia, which usually present with a few days of cough, fever, and shortness of breath. Chest x-ray typically reveals a lobar infiltrate (rather than diffuse).
+
+
+=== Newborns ===
+Most newborn infants with CAP are hospitalized, receiving IV ampicillin and gentamicin for at least ten days to treat the common causative agents streptococcus agalactiae, listeria monocytogenes and escherichia coli. To treat the herpes simplex virus, IV acyclovir is administered for 21 days.
+
+
+=== Children ===
+Treatment of CAP in children depends on the child's age and the severity of illness. Children under five are not usually treated for atypical bacteria. If hospitalization is not required, a seven-day course of amoxicillin is often prescribed, with co-trimaxazole as an alternative when there is allergy to penicillins. Further studies are needed to confirm the efficacy of newer antibiotics.  With the increase in drug-resistant Streptococcus pneumoniae, antibiotics such as cefpodoxime may become more popular. Hospitalized children receive intravenous ampicillin, ceftriaxone or cefotaxime, and a recent study found that a three-day course of antibiotics seems sufficient for most mild-to-moderate CAP in children.
+
+
+=== Adults ===
+In 2001 the American Thoracic Society, drawing on the work of the British and Canadian Thoracic Societies, established guidelines for the management of adult CAP by dividing patients into four categories based on common organisms:
+Healthy outpatients without risk factors: This group (the largest) is composed of otherwise-healthy patients without risk factors for DRSP, enteric gram-negative bacteria, pseudomonas or other, less common, causes of CAP. Primary microorganisms are viruses, atypical bacteria, penicillin-sensitive streptococcus pneumoniae and haemophilus influenzae. Recommended drugs are macrolide antibiotics, such as azithromycin or clarithromycin, for seven to ten days. A shorter course of these antibiotics has been investigated, however, there is not sufficient evidence to make recommendations.
+Outpatients with underlying illness or risk factors: Although this group does not require hospitalization, they have underlying health problems such as emphysema or heart failure or are at risk for DRSP or enteric gram-negative bacteria. They may be treated with a quinolone active against streptococcus pneumoniae (such as levofloxacin) or a β-lactam antibiotic (such as cefpodoxime, cefuroxime, amoxicillin or amoxicillin/clavulanic acid) and a macrolide antibiotic, such as azithromycin or clarithromycin, for seven to ten days.
+Hospitalized patients without risk for pseudomonas: This group requires intravenous antibiotics, with a quinolone active against streptococcus pneumoniae (such as levofloxacin), a β-lactam antibiotic (such as cefotaxime, ceftriaxone, ampicillin/sulbactam or high-dose ampicillin plus a macrolide antibiotic (such as azithromycin or clarithromycin) for seven to ten days.
+Intensive-care patients at risk for pseudomonas aeruginosa: These patients require antibiotics targeting this difficult-to-eradicate bacterium. One regimen is an intravenous antipseudomonal beta-lactam such as cefepime, imipenem, meropenem or piperacillin/tazobactam, plus an IV antipseudomonal fluoroquinolone such as levofloxacin. Another is an IV antipseudomonal beta-lactam such as cefepime, imipenem, meropenem or piperacillin/tazobactam, plus an aminoglycoside such as gentamicin or tobramycin, plus a macrolide (such as azithromycin) or a nonpseudomonal fluoroquinolone such as ciprofloxacin.For mild-to-moderate CAP, shorter courses of antibiotics (3–7 days) seem to be sufficient.Some patients with CAP will be at increased risk of death despite antimicrobial treatment. A key reason for this is the host's exaggerated inflammatory response.  There is a tension between controlling the infection on one hand and minimizing damage to other tissues on the other. Some recent research focuses on immunomodulatory therapy that can modulate the immune response in order to reduce injury to the lung and other affected organs such as the heart. Although the evidence for these agents has not resulted in their routine use, their potential benefits are promising.
+
+
+=== Hospitalization ===
+Some CAP patients require intensive care, with clinical prediction rules such as the pneumonia severity index and CURB-65 guiding the decision whether or not to hospitalize. Factors increasing the need for hospitalization include:
+
+Age greater than 65
+Underlying chronic illnesses
+Respiratory rate greater than 30 per minute
+Systolic blood pressure less than 90 mmHg
+Heart rate greater than 125 per minute
+Temperature below 35 or over 40 °C
+Confusion
+Evidence of infection outside the lungLaboratory results indicating hospitalization include:
+
+Arterial oxygen tension less than 60 mm Hg
+Carbon dioxide over 50 mmHg or pH under 7.35 while breathing room air
+Hematocrit under 30 percent
+Creatinine over 1.2 mg/dl or blood urea nitrogen over 20 mg/dl
+White-blood-cell count under 4 × 10^9/L or over 30 × 10^9/L
+Neutrophil count under 1 x 10^9/LX-ray findings indicating hospitalization include:
+
+Involvement of more than one lobe of the lung
+Presence of a cavity
+Pleural effusion
+
+
+== Prognosis ==
+The CAP outpatient mortality rate is less than one percent, with fever typically responding within the first two days of therapy, and other symptoms abating in the first week. However, X-rays may remain abnormal for at least a month. Hospitalized patients have an average mortality rate of 12 percent, with the rate rising to 40 percent for patients with bloodstream infections or those who require intensive care. Factors increasing mortality are identical to those indicating hospitalization.
+When CAP does not respond to treatment, this may indicate a previously unknown health problem, a treatment complication, inappropriate antibiotics for the causative organism, a previously unsuspected microorganism (such as tuberculosis) or a condition mimicking CAP (such as granuloma with polyangiitis). Additional tests include X-ray computed tomography, bronchoscopy or lung biopsy.
+
+
+== Epidemiology ==
+CAP is common worldwide, and is a major cause of death in all age groups. In children, most deaths (over two million a year) occur in the newborn period. According to a World Health Organization estimate, one in three newborn deaths result from pneumonia. Mortality decreases with age until late adulthood, with the elderly at risk for CAP and its associated mortality.
+More CAP cases occur during the winter than at other times of the year. CAP is more common in males than females, and more common in black people than Caucasians. Patients with underlying illnesses (such as Alzheimer's disease, cystic fibrosis, COPD, tobacco smoking, alcoholism or immune-system problems) have an increased risk of developing pneumonia.
+
+
+== See also ==
+Bacterial pneumonia
+Viral pneumonia
+Fungal pneumonia
+Parasitic pneumonia
+
+
+== References ==
+
+Mandell LA, Wunderink RG, Anzueto A,  et al. (March 2007). "Infectious Diseases Society of America/American Thoracic Society consensus guidelines on the management of community-acquired pneumonia in adults". Clinical Infectious Diseases. 44 (Suppl 2): S27–72. doi:10.1086/511159. PMID 17278083.
+
+
+== External links ==
+Infectious Diseases Society of America/American Thoracic Society Consensus Guidelines on the Management of Community-Acquired Pneumonia in Adults PDF
